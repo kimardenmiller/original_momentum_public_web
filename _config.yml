@@ -1,9 +1,7 @@
-logo: # add logo name
-title: Bef - Enjoy Freedom
+logo: Momentum # add logo name
+title: Momentum - Make Your Move
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An alternative social contract that prioritizes vulnerability (to express emotions) over self-promotion.
 permalink: ':title/'
 baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -15,11 +13,11 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: # Kim Miller
+about-author: # Momentum Launchpad
 email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+phone: (650) 302-0731 # phone number
+website: http://discourse.gomomentum.org/ # you website
 
 # Social link
 google_url:    # add url link
@@ -30,7 +28,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+discus_identifier: kimardenmiller # add your discus identifier
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
