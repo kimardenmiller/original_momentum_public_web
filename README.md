@@ -4,7 +4,7 @@ Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple
 
 ## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/bef/)
+Check the theme in action [Demo](https://www.gomomentum.org//bef/)
 
 The main page would look like this:
 

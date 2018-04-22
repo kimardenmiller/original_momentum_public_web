@@ -1,31 +1,32 @@
 logo: Momentum # add logo name
 title: Momentum - Make Your Move
 description: > # this means to ignore newlines until "baseurl:"
-  An alternative social contract that prioritizes vulnerability (to express emotions) over self-promotion.
+  An alternative social contract prioritizing vulnerability over self-promotion.
 permalink: ':title/'
 baseurl: "/Momentum" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kimardenmiller.github.io/Momentum/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: Momentum #  banner title
+banner-desc: An alternative social contract prioritizing vulnerability over self-promotion. #  banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # Kim Miller
-about-author: # Momentum Launchpad
-email: your-email@domain.com # your email
+author-pic: momentum_logo_darker.png # your photo
+author-name: Momentum # Kim Miller
+about-author: >
+  Momentum exists to support men, men's teams, and our community.
+email: contact@ggomomentum.org # your email
 phone: (650) 302-0731 # phone number
 website: http://discourse.gomomentum.org/ # you website
 
 # Social link
+meet_up_url:    https://www.meetup.com/GoMomentum/
+facebook_url:   https://www.facebook.com/nationofmen/
+discourse_url:  http://discourse.gomomentum.org/
 google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
 pinterest_url: # add url link
 dribbble_url:  # add url link
-facebook_url:  # add url link
 
 # Disqus
 discus_identifier: kimardenmiller # add your discus identifier
