@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   An alternative social contract for men prioritizing vulnerability over self-promotion.
 permalink: ':title/'
 baseurl: "/Momentum" # the subpath of your site, e.g. /blog
-url: "http://kimardenmiller.github.io/Momentum/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kimardenmiller.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
