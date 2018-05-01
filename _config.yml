@@ -2,7 +2,7 @@ logo: '<img src=/Momentum/assets/img/himalayan.jpg>' # add logo name
 logo-img: momentum_logo_clear.png
 title: Momentum - Make Your Move
 description: > # this means to ignore newlines until "baseurl:"
-  An alternative social contract prioritizing vulnerability over self-promotion.
+  An alternative social contract for men prioritizing vulnerability over self-promotion.
 permalink: ':title/'
 baseurl: "/Momentum" # the subpath of your site, e.g. /blog
 url: "http://kimardenmiller.github.io/Momentum/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ url: "http://kimardenmiller.github.io/Momentum/" # the base hostname & protocol 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Momentum #  banner title
-banner-desc: An alternative social contract prioritizing vulnerability over self-promotion. #  banner description
+banner-desc: An alternative social contract for men prioritizing vulnerability over self-promotion. #  banner description
 
 # Author settings
 author-pic: momentum_logo_darker.png # gif portable logo

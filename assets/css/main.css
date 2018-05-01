@@ -3931,7 +3931,7 @@ cite {
 }
 
 .main_header {
-  padding: 1rem;
+  padding: .75rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3963,6 +3963,14 @@ cite {
 
 .main_header img {
   width: 100px;
+}
+
+.main_header nav ul li {
+  display: inline;
+}
+
+.main_header nav ul li ul li {
+  display: block;
 }
 
 .main_header nav a {
