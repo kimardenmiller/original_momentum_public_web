@@ -1,11 +1,12 @@
 // - - - - - - - - - - Header Styles - - - - - - - - - - //
 
 .main_header
-  padding: 2rem
+  padding: .75rem
   display: flex
   justify-content: space-between
   align-items: center
   background-color: $dark
+  position: relative
   z-index: 1
   .logo
     color: $white
@@ -16,13 +17,58 @@
     span
       color: $highlight
       font-weight: 400
-  nav
-    a
-      color: $green
-      text-decoration: none
-      margin-left: 2rem
-    ul
-      li
-        display:  inline
+
   img
     width: 100px
+
+  nav
+    margin-top: 15px
+    ul
+      list-style: none
+      position: relative
+      float: left
+      margin: 0
+      padding: 0
+      a
+        display: block
+        color: $white_gray
+        text-decoration: none
+        font-weight: 500
+        // font-size: 12px
+        line-height: 32px
+        padding: 0 15px
+        font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif
+      li
+        position: relative
+        float: left
+        margin: 0
+        padding: 0
+        &.current-menu-item
+          background: $dark
+        &:hover
+          background: $dark
+          color: $highlight_lighten
+          a
+            color: $highlight_lighten
+          ul
+            li
+              a
+                color: $white_gray
+              &:hover
+                a
+                  background: $dark_light
+                  color: $highlight_lighten
+      ul
+        display: none
+        position: absolute
+        top: 100%
+        left: 0
+        background: $dark
+        padding: 0
+        li
+          width: 200px
+        a
+          line-height: 120%
+          padding: 10px 15px
+      li:hover > ul
+        display: block
