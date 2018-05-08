@@ -1,18 +1,24 @@
-# Bef is a responsive jekyll theme
+## Momentum is for men
 
-Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
+Our focus is on men’s work and being the best men we can be. 
 
-## Demo
+## We support men to have authentic friendships
 
-Check the theme in action [Demo](https://www.gomomentum.org//bef/)
+Sure, we like to have fun together, but we’re looking for something more: authentic, lifelong friendships with great men we trust, who become like brothers.
 
-The main page would look like this:
+## Momentum supports teams
 
-![Main page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true)
+We believe that men benefit greatly from being on teams that meet regularly to support each other to live their values and achieve their dreams. 
 
-The post page would look like this:
+## We are committed to growth
 
-![Post page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_post.jpg?raw=true)
+We challenge each other to be better men, and allow ourselves to be challenged. We are ruthless in our compassion. 
+
+## Is this for you?
+
+Come visit a monthly meeting or contact us.
+It's a safe, trusted environment where members have authentic relationships with other men who support each others' journey through life. There is no religious or political affiliation. Most members are in the San Francisco Bay area, between San Jose and the mid-peninsula. Many men are on teams of 5-10 men who meet weekly. The organization meets monthly and sponsors a range of activities and online discussion groups. 
+
 
 ## Features
 
@@ -23,12 +29,3 @@ The post page would look like this:
 - [MailChimp](https://mailchimp.com/)
 - [Formspree!](https://formspree.io/)
 - [Analytics](https://analytics.google.com/analytics/web/)
-- Share Buttons, Recent Post, Section Author, Contact and more...
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-### License
-
-GNU General Public License v3.0

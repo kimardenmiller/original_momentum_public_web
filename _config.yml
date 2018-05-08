@@ -17,7 +17,7 @@ author-pic: momentum_logo_darker.png # gif portable logo
 author-name: Momentum
 about-author: >
   Momentum exists to support men, men's teams, and our community.
-email: contact@gomomentum.org # contact email  TODO get correct contact email
+email: info@gomomentum.org # contact email  TODO test live and alert Moe it's coming
 phone:  # phone number
 website: http://discourse.gomomentum.org/ # you website
 
@@ -32,7 +32,7 @@ dribbble_url:  # add url link
 # Disqus
 discus_identifier: gomomentum # add your discus identifier
 
-# Newsletter  TODO get mailchip plan
+# Newsletter  TODO Ryan getting the mailchimp plan, but we want Discourse here in the end.
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
