@@ -10,13 +10,14 @@ url: "http://kimardenmiller.github.io/" # the base hostname & protocol for your 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Momentum #  banner title
-banner-desc: An alternative social contract for men prioritizing vulnerability over self-promotion. #  banner description
+banner-desc: An alternative social contract between men that prioritizes vulnerability over self-promotion. #  banner description
 
 # Author settings
 author-pic: momentum_logo_darker.png # gif portable logo
 author-name: Momentum
 about-author: >
   Momentum exists to support men, men's teams, and our community.
+about-image: bramhall_circle.jpg
 email: info@gomomentum.org # contact email  TODO test live and alert Moe it's coming
 phone:  # phone number
 website: http://discourse.gomomentum.org/ # you website
