@@ -10,13 +10,14 @@ layout: default
         <img src={{"/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
       </div>
       <div class="post_description">
-        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
+        <!--<p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>-->
         <h1 class="post_title">{{page.title}}</h1>
       </div>
     </header> <!-- End Header -->
 
     <div class="entry_content">
-      {{page.content | markdownify}}
+      {{content}}
+      <!--{{content | markdownify}}-->
     </div>
     
     <div class="post_wrapper">
@@ -68,6 +69,8 @@ layout: default
     </div>
   </section> <!-- End Section Author -->
 
+    {% include disqus.html %}
+
   <section class="recent_box">
     <div class="post_wrapper">
       <h2 class="recent_title">Recent post</h2>
@@ -80,9 +83,7 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Recent Box -->
-  
-  {% include disqus.html %}
-  
+
 </main> <!-- End Section Post Content -->
 
 {% include footer.html %}
