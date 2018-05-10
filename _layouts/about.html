@@ -17,7 +17,6 @@ layout: default
 
     <div class="entry_content">
       {{content}}
-      <!--{{content | markdownify}}-->
     </div>
     
     <div class="post_wrapper">
@@ -37,6 +36,8 @@ layout: default
       </footer>
     </div>
   </article> <!-- End Section Post -->
+
+    {% include disqus.html %}
 
   <section class="author cf">
     <div class="post_wrapper">
@@ -68,8 +69,6 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Author -->
-
-    {% include disqus.html %}
 
   <section class="recent_box">
     <div class="post_wrapper">
