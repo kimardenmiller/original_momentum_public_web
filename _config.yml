@@ -8,7 +8,7 @@ baseurl: "/Momentum" # the subpath of your site, e.g. /blog
 url: "http://kimardenmiller.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: momentum_1080.mp4 # add banner video. Add your video file to the folder video
 banner-title: Momentum #  banner title
 banner-desc: An alternative social contract between men that prioritizes vulnerability over self-promotion. #  banner description
 
