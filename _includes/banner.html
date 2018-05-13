@@ -1,5 +1,14 @@
 
-<section id="banner" data-vide-bg="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" data-vide-options="posterType: jpg, loop: true, muted: false, position: 50% 50%">
+<section id="banner" data-vide-bg_off="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" data-vide-options="posterType: jpg, loop: true, muted: false, position: 50% 50%">
+  <div class="h5_video">
+    <video src="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}"
+           controls
+           autoplay
+           loop
+           height=50%
+           poster="{{site.baseurl}}/assets/video/{% if site.poster %}{{ site.poster }}{% endif %}">
+    </video>
+  </div>
   <div class="wrapper">
     <div class="content">
       <h1 class="title">{% if site.banner-title %}{{ site.banner-title }}{% else %}Momentum{% endif %}</h1>
