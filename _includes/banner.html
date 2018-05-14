@@ -1,12 +1,14 @@
 
 <section id="banner" data-vide-bg_off="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" data-vide-options="posterType: jpg, loop: true, muted: false, position: 50% 50%">
   <div class="h5_video">
-    <video src="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}"
-           controls
+    <video controls
            autoplay
            loop
            muted
-           poster="{{site.baseurl}}/assets/video/{% if site.poster %}{{ site.poster }}{% endif %}">
+           poster="{{site.baseurl}}/assets/video/{% if site.poster %}{{ site.poster }}{% endif %}" >
+      <source src="{{site.baseurl}}/assets/video/{% if site.video_mp4 %}{{ site.video_mp4 }}{% endif %}" type='video/mp4' />
+      <source src="{{site.baseurl}}/assets/video/{% if site.video_ogv %}{{ site.video_ogv }}{% endif %}" type='video/ogv' />
+      <source src="{{site.baseurl}}/assets/video/{% if site.video_webm %}{{ site.video_webm }}{% endif %}" type='video/webm' />
     </video>
   </div>
   <div class="wrapper">
