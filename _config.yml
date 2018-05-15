@@ -1,5 +1,6 @@
 logo: '<img src=/Momentum/assets/img/himalayan.jpg>' # add logo name
-logo-img: momentum_logo_clear.png
+logo-img: momentum_logo_clear_older.png
+logo-img2: momentum_logo_clear.png
 title: Momentum - Make Your Move
 description: > # this means to ignore newlines until "baseurl:"
   An alternative social contract for men prioritizing vulnerability over self-promotion.
