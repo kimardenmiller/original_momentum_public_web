@@ -42,18 +42,18 @@ layout: default
   <section class="author cf">
     <div class="post_wrapper">
       <div class="author_image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
+        <img src="{{site.baseurl}}/assets/img/{% if page.author-photo %}{{ page.author-photo }}{% else %}{{ site.author-pic }}{% endif %}" alt="Author face">
       </div>
       <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}La croix godard blue bottle, vape iceland fingerstache cronut single-origin coffee lyft snackwave normcore small batch.{% endif %}</p>
+        <h2 class="author_title">About {% if page.author-name %}{{page.author-name}}{% else %}Momentum{% endif %}</h2>
+        <p class="author_subtitle">{% if page.about-author %}{{page.about-author}}{% else %}{{site.about-author}}{% endif %}</p>
         <div class="author_social">
+          <!--
           {% if site.email %}
           <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
           {% else %}
           <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
           {% endif %}
-          
           {% if site.phone %}
           <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
           {% else %}
@@ -64,7 +64,8 @@ layout: default
           <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
           {% else %}
           <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
-          {% endif %}            
+          {% endif %}
+          -->
         </div>
       </div>
     </div>
@@ -72,7 +73,7 @@ layout: default
 
   <section class="recent_box">
     <div class="post_wrapper">
-      <h2 class="recent_title">Recent post</h2>
+      <h2 class="recent_title">Recent posts</h2>
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}

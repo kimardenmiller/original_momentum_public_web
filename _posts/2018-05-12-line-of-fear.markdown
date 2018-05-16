@@ -4,6 +4,9 @@ title: 'Line of Fear'
 img: line_of_fear.jpg # Add image post (optional)
 date: 2018-05-12 9:35:00 -0800
 description: Created for the May 2018 GM for fears surfaced during the meeting.
+author-name: Steve Scott
+author-photo: steve_s.png
+about-author: I’m a Dad, a teacher, a technology maven, a tinkerer, a photographer, and a person who is fascinated by the intricacies and complexities of life. Steve has been the Chief of Momentum since June of 2016.
 tag: [Fear, Vulnerability, Trust]
 ---
 # Conceptual  Blog Post Example
