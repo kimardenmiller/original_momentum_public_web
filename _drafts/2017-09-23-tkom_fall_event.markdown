@@ -4,7 +4,7 @@ title: "TKOm Process"
 img: steve_tkom.jpg # Add image post (optional)
 date: 2017-09-08 16:00:00 -0800 
 description: TKOm is a powerful process that can help us Own Momentum in our lives.
-tag: [Travel, Nevada]
+tag: [NVC, Growth, Fall-Event]
 ---
 # TKOm -- a Powerful Process of Discovery
 

@@ -4,7 +4,7 @@ title: "Rebuilding Together"
 img: service_lee.jpg # Add image post (optional)
 date: 2018-04-28 08:00:00 -0800
 description: # Add post description (optional)
-tag: [Travel, Malaysia, Blogging]
+tag: [Service, Public, Giving-Back]
 ---
 # An inspiring service -- Truly Rebuilding Together
 
