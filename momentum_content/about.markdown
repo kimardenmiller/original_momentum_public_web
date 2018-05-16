@@ -5,7 +5,7 @@ page: about
 img: bramhall_circle.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /about/
-tag: [Momentum, About, Menswork]
+tag: [Momentum, About, Contact]
 ---
 _Momentum is a local, not-for-profit men’s community supporting men and men’s teams._
 

@@ -15,7 +15,7 @@
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: $dark_gray;
+  background-color: $body_dark_gray;
   margin: 0;
 }
 
@@ -27,15 +27,19 @@ p {
   font-weight: 400;
 }
 
+span {
+  color: $text_color;
+}
+
 blockquote {
   font-size: 1.2rem;
   font-style: italic;
   border-left: 3px solid $momentum_red;
   padding-left: 2rem;
   margin: 0 0 1.75rem;
-  color: $dark_light;
+  color: $background_brown_grey;
   p {
-    color: $dark_light;
+    color: $background_brown_grey;
     font-size: 1.2rem;
     }
 }
@@ -56,7 +60,7 @@ input[type=email], input[type=text], input[type=tel], textarea {
 
 
 cite {
-  color: lighten($color_gray, 15%);
+  color: lighten($border_color_gray, 15%);
   }
 
 .wrapper {

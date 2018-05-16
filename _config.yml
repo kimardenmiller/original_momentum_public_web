@@ -9,10 +9,10 @@ baseurl: "/momentum" # the sub-path of your site, e.g. /blog
 url: "http://kimardenmiller.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
+poster: momentum_gm.jpg # add banner video. Add your video file to the folder video
 video_mp4: momentum_gm.mp4 # add banner video. Add your video file to the folder video
 video_ogv: momentum_gm.ogv # add banner video. Add your video file to the folder video
 video_webm: momentum_gm.webm # add banner video. Add your video file to the folder video
-poster: momentum_gm.jpg # add banner video. Add your video file to the folder video
 banner-title: Momentum #  banner title
 banner-desc: An alternative social contract between men that prioritizes vulnerability over self-promotion. #  banner description
 
@@ -22,8 +22,9 @@ author-name: Momentum
 about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
 about-image: bramhall_circle.jpg
 email: info@gomomentum.org # contact email  TODO test live and alert Moe it's coming
-phone:  # phone number
-website: http://discourse.gomomentum.org/ # you website
+website: http://gomomentum.org/ # our main website
+contact: /contact/
+phone:  # phone number unused as of May 16, 2018
 
 # Social link
 meet_up_url:    https://www.meetup.com/GoMomentum/

@@ -5,7 +5,7 @@
   display: flex
   justify-content: space-between
   align-items: center
-  background-color: $dark
+  background-color: $header_footer_dark
   position: relative
   z-index: 1
   .logo
@@ -28,7 +28,7 @@
       padding: 0
       a
         display: block
-        color: $white_gray
+        color: $button_white_gray
         text-decoration: none
         font-weight: 500
         // font-size: 12px
@@ -41,25 +41,25 @@
         margin: 0
         padding: 0
         &.current-menu-item
-          background: $dark
+          background: $header_footer_dark
         &:hover
-          background: $dark
+          background: $header_footer_dark
           a
             color: $momentum_green
           ul
             li
               a
-                color: $white_gray
+                color: $button_white_gray
               &:hover
                 a
-                  background: $dark_light
+                  background: $background_brown_grey
                   color: $momentum_gold
       ul
         display: none
         position: absolute
         top: 100%
         left: 0
-        background: $dark
+        background: $header_footer_dark
         padding: 0
         li
           width: 200px
