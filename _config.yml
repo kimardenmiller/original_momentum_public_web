@@ -13,7 +13,7 @@ poster: momentum_gm.jpg # add banner video. Add your video file to the folder vi
 video_mp4: momentum_gm.mp4 # add banner video. Add your video file to the folder video
 video_ogv: momentum_gm.ogv # add banner video. Add your video file to the folder video
 video_webm: momentum_gm.webm # add banner video. Add your video file to the folder video
-video_playback_rate: .3
+video_playback_rate: .7
 banner-title: Momentum #  banner title
 banner-desc: An alternative social contract between men that prioritizes vulnerability over self-promotion. #  banner description
 
