@@ -19,7 +19,7 @@ Sure, we like to have fun together, but we’re looking for something more: auth
 We believe that men benefit greatly from being on teams that meet regularly to support each other to live their values and achieve their dreams. Teams help deep friendships develop.
 
 ## **We are committed to growth**
-We challenge each other to be better men, and allow ourselves to be challenged. We say that we are _"ruthless in our compassion"_, meaning that we take personal, emotional risk in ourselves in order to be truthful about what we sense in each other. 
+We challenge each other to be better men, and allow ourselves to be challenged. We say that we are _"ruthless in our compassion"_, meaning that we take personal, emotional riskh5_video ourselves in order to be truthful about what we sense in each other. 
 
 We don't adhere to complicated methods, but rather believe that peer, male feedback is an ancient capacity deep within our DNA. Nothing we do takes more than five minutes to understand once a man sees it, unless of course it's off-track, which happens from time to time.
 
