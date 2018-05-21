@@ -1,5 +1,12 @@
 // - - - - - - - - - - Media - - - - - - - - - - //
 
+@media only screen and (max-width : 1490px)
+  #banner
+    .h5_video
+      video
+        width: auto
+        height: 905px
+
 @media only screen and (max-width : 960px)
   .chapters
     padding: 2rem 0
@@ -9,8 +16,11 @@
 
 @media only screen and (max-width : 768px)
   #banner
+    .h5_video
+      video
+        height: 600px
     .content
-      padding: 7rem 0
+      padding: 4rem 0
       .title
         font-size: 2.5rem
         margin: 0 0 1rem 0
@@ -18,6 +28,9 @@
         font-size: 1.35rem
         line-height: 2rem
         font-style: italic
+      .action_text
+        font-size: 1.25em
+        padding: .75rem 1rem
 
   .chapters
     .chapter_inner
@@ -102,6 +115,14 @@
     font-size: 1rem
 
 @media only screen and (max-width: 550px)
+  #banner
+    .content
+      padding: 2rem 0
+    .call_to_action
+      .action_text
+        font-size: 1.25em
+        padding: .75rem 1rem
+
   .post
     header
       .post_meta
@@ -150,7 +171,11 @@
       padding: 0.3rem 0.8rem
       font-size: 1.10rem
 
-@media only screen and (max-width: 320px)
+@media only screen and (max-width: 375px)
+  #banner
+    .content
+      padding: 1rem 0
+
   .post
     header
       .post_meta
