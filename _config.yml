@@ -3,7 +3,7 @@ logo-img: momentum_logo_clear_older.png
 logo-img2: momentum_logo_clear.png
 title: Momentum - Make Your Move
 description: > # this means to ignore newlines until "baseurl:"
-  An alternative social contract for men prioritizing vulnerability over self-promotion.
+  An alternative social contract for men prioritizing transparency over self-promotion.
 permalink: ':title/'
 baseurl: "/Momentum" # the sub-path of your site, e.g. /blog
 url: "http://kimardenmiller.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -41,7 +41,7 @@ discus_identifier: gomomentum # add your discus identifier
 # Newsletter  TODO Ryan getting the mailchimp plan, but we want Discourse here in the end.
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Tracker
+# Tracker TODO set up
 analytics:
 
 # Paginate
