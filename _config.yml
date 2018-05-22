@@ -14,8 +14,13 @@ video_mp4: momentum_gm.mp4 # add banner video. Add your video file to the folder
 video_ogv: momentum_gm.ogv # add banner video. Add your video file to the folder video
 video_webm: momentum_gm.webm # add banner video. Add your video file to the folder video
 video_playback_rate: .7
-banner-title: Momentum #  banner title
-banner-desc: An alternative social contract between men that prioritizes vulnerability over self-promotion. #  banner description
+
+# banner title
+banner-title: Momentum
+# banner description
+banner-desc: An alternative social contract between men that prioritizes transparency over self-promotion.
+# banner call to action
+banner-call-to-action: Meet Us
 
 # Author settings
 author-pic: momentum_logo_darker.png # gif portable logo
