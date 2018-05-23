@@ -29,7 +29,7 @@ banner-call-to-action: Meet Us
 #about-image: bramhall_circle.jpg
 
 # contact settings
-email: info@gomomentum.org # contact email  TODO 9 test live and alert Moe it's coming
+email: info@gomomentum.org # contact email  TODO 8:gomomentum.org URL: test live and alert Moe it's coming
 website: http://gomomentum.org/ # our main website
 contact: /contact/
 phone:  # phone number unused as of May 16, 2018
@@ -48,7 +48,7 @@ discus_identifier: gomomentum # add your discus identifier
 # Newsletter  TODO 2 Ryan getting the mailchimp plan, but we want Discourse here in the end.
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Tracker TODO 9 set up
+# Tracker TODO 8:gomomentum.org URL: set up
 analytics:
 
 # Paginate
