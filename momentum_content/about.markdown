@@ -1,11 +1,12 @@
 ---
-layout: about
-title: "About Momentum"
-page: about
+layout: post
+title: 'About Momentum'
 img: bramhall_circle.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /about/
-tag: [Momentum, About, Contact]
+author-name: Momentum
+author-photo: momentum_logo_darker.png
+about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
 ---
 _Momentum is a local, not-for-profit men’s community supporting men and men’s teams._
 

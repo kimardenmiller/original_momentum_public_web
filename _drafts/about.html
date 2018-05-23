@@ -10,19 +10,19 @@ layout: default
         <img src={{"/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
       </div>
       <div class="post_description">
-        <!--<p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>-->
+        <p class="post_meta">{{page.date | date: '%Y, %b %d'}} old about</p>
         <h1 class="post_title">{{page.title}}</h1>
       </div>
     </header> <!-- End Header -->
 
     <div class="entry_content">
-      {{content}}
+      {{page.content | markdownify}}
     </div>
     
     <div class="post_wrapper">
       <footer class="post_footer cf">
         <div class="post_share">
-          <span>Share:</span><!-- TODO send social shares to an include .... or share with post? -->
+          <span>Share:</span><!-- TODO 0 check social links in final site -->
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
              title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
           <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Share on Facebook"
@@ -32,7 +32,7 @@ layout: default
         </div>
         <div class="post_tag">
           <span>Tags:</span>
-          {% for tag in page.tag %}
+          {% for tag in page.tags %}
           <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
           {% endfor %}
         </div>
@@ -45,24 +45,12 @@ layout: default
   <section class="author cf">
     <div class="post_wrapper">
       <div class="author_image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
+        <img src="{{site.baseurl}}/assets/img/{% if page.author-photo %}{{ page.author-photo }}{% else %}{{ site.author-pic }}{% endif %}" alt="Author face">
       </div>
       <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}{% endif %}</p>
+        <h2 class="author_title">{% if page.author-name %}{{page.author-name}}{% else %}Momentum{% endif %}</h2>
+        <p class="author_subtitle">{% if page.about-author %}{{page.about-author}}{% else %}{{site.about-author}}{% endif %}</p>
         <div class="author_social">
-          <!--
-          {% if site.email %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
-          {% else %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
-          {% endif %}
-          {% if site.phone %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
-          {% else %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+496-169-65-57">(496)-169-6557</a></span>
-          {% endif %} -->
-
           {% if site.contact %}
           <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i>
             <a href="{{site.contact | prepend: site.baseurl}}" target="_blank">Click here to contact Momentum</a></span>

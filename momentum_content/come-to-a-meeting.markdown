@@ -1,11 +1,13 @@
 ---
-layout: about
+layout: post
 title: "Momentum Connection"
 page: come-to-a-meeting
 img: bramhall_circle.jpg # Add image (optional)
 description: Come to a Meeting
 permalink: /come-to-a-meeting/
-tag: [Momentum, About, Contact]
+author-name: Momentum
+author-photo: momentum_logo_darker.png
+about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
 ---
 At its core face-to-face encounters are central to the Momentum experience. We'd love to have you come out and see if Momentum is for you. 
 

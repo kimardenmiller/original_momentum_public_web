@@ -23,10 +23,12 @@ banner-desc: An alternative social contract between men that places transparency
 banner-call-to-action: Meet Us
 
 # Author settings
-author-pic: momentum_logo_darker.png # gif portable logo
-author-name: Momentum
-about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
-about-image: bramhall_circle.jpg
+#author-name: Momentum
+#author-pic: momentum_logo_darker.png # gif portable logo
+#about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
+#about-image: bramhall_circle.jpg
+
+# contact settings
 email: info@gomomentum.org # contact email  TODO 9 test live and alert Moe it's coming
 website: http://gomomentum.org/ # our main website
 contact: /contact/
