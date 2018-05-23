@@ -16,7 +16,6 @@ Our monthly meeting is the Second Saturday of every month at [Bramhall Park in S
     frameborder="0" style="border:0" allowfullscreen>
 </iframe>
 
-
 Even more central to the Momentum experience are our small-group meetings, which you will also see listed at the above link or reach out and we'll connect you.
 
 Feel free to [contact us here with any questions]({{site.baseurl}}/contact/).
