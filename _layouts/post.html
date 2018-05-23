@@ -22,10 +22,13 @@ layout: default
     <div class="post_wrapper">
       <footer class="post_footer cf">
         <div class="post_share">
-          <span>Share:</span><!-- TODO fix social links -->
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+          <span>Share:</span><!-- TODO 0 check social links in final site -->
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+             title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Share on Facebook"
+             rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Share on Google+"
+             rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
         </div>
         <div class="post_tag">
           <span>Tags:</span>

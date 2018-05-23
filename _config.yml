@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   An alternative social contract for men prioritizing transparency over self-promotion.
 permalink: ':title/'
 baseurl: "/Momentum" # the sub-path of your site, e.g. /blog
-url: "http://kimardenmiller.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kimardenmiller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 poster: momentum_gm.jpg # add banner video. Add your video file to the folder video
@@ -27,7 +27,7 @@ author-pic: momentum_logo_darker.png # gif portable logo
 author-name: Momentum
 about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
 about-image: bramhall_circle.jpg
-email: info@gomomentum.org # contact email  TODO test live and alert Moe it's coming
+email: info@gomomentum.org # contact email  TODO 9 test live and alert Moe it's coming
 website: http://gomomentum.org/ # our main website
 contact: /contact/
 phone:  # phone number unused as of May 16, 2018
@@ -43,10 +43,10 @@ dribbble_url:  # add url link
 # Disqus
 discus_identifier: gomomentum # add your discus identifier
 
-# Newsletter  TODO Ryan getting the mailchimp plan, but we want Discourse here in the end.
+# Newsletter  TODO 2 Ryan getting the mailchimp plan, but we want Discourse here in the end.
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Tracker TODO set up
+# Tracker TODO 9 set up
 analytics:
 
 # Paginate
