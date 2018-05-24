@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Line of Fear'
+title: 'Stepping Past Fears'
 img: line_of_fear.jpg # Add image post (optional)
 date: 2018-05-12 9:35:00 -0800
 description: Created for the May 2018 GM for fears surfaced during the meeting.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Male Energy"
+title: 'Having Fun'
 img: stooges.jpg # Add image post (optional)
 date: 2016-05-12 12:51:00 -0800
 description: 

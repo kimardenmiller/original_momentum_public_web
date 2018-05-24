@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Edge"
+title: "Living Men's Values"
 img: kim_rafting.jpg # image post (optional)
 date: 2016-11-14 12:55:00 +0300
 description: From a recent post on Discourse Meta
