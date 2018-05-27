@@ -24,11 +24,11 @@ layout: default
         <div class="post_share">
           <span>Share:</span><!-- TODO 0 check social links in final site -->
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-             title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+             title="Share on Twitter" rel="nofollow" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
           <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Share on Facebook"
-             rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+             rel="nofollow" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a>
           <a href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Share on Google+"
-             rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+             rel="nofollow" target="_blank"><i class="fab fa-google" aria-hidden="true"></i></a>
         </div>
         <div class="post_tag">
           <span>Tags:</span>
@@ -52,10 +52,10 @@ layout: default
         <p class="author_subtitle">{% if page.about-author %}{{page.about-author}}{% else %}{{site.about-author}}{% endif %}</p>
         <div class="author_social">
           {% if site.contact %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i>
+          <span class="author_website"><i class="fab fa-link" aria-hidden="true"></i>
             <a href="{{site.contact | prepend: site.baseurl}}" target="_blank">Click here to contact Momentum</a></span>
           {% else %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i>
+          <span class="author_website"><i class="fab fa-link" aria-hidden="true"></i>
             <a href="{{site.website}}" target="_blank"></a></span>
           {% endif %}
         </div>
