@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Effective Communication'
+title: 'Communication'
 img: steve_tkom.jpg # Add image post (optional)
 date: 2017-09-08 16:00:00 -0800 
 description: TKOm is a powerful process that can help us Own Momentum in our lives.

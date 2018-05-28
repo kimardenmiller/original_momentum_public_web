@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rebuilding Together'
+title: 'Service'
 img: service_lee.jpg # Add image post (optional)
 date: 2018-04-28 08:00:00 -0800
 description: # Add post description (optional)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Having Fun'
-img: stooges.jpg # Add image post (optional)
+title: "Men's Teams"
+img: team_wide.jpg # Add image post (optional)
 date: 2016-05-12 12:51:00 -0800
 description: 
 tag: [Fun, Energy, Masculinity]
