@@ -45,9 +45,8 @@ dribbble_url:  # add url link
 # Disqus
 discus_identifier: gomomentum # add your discus identifier
 
-# Newsletter  TODO 2 Ryan getting the mailchimp plan, but we want Discourse here in the end.
+# Newsletter
 mailchimp: gomomentum.us18.list-manage.com/subscribe/post?u=cd428163397aafa9f23b0ee8a&amp;id=f700eb71e1
-# add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker TODO 8:gomomentum.org URL: set up
 analytics:
