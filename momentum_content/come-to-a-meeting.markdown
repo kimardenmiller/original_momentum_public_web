@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Momentum Connection"
-page: come-to-a-meeting
 img: bramhall_circle.jpg # Add image (optional)
 description: Come to a Meeting
 permalink: /come-to-a-meeting/
@@ -25,4 +24,4 @@ Social time over breakfast after the meeting will give you an additional opportu
 
 Not into larger gatherings? Even more central to the Momentum experience are our small-group meetings, which you will also see listed at the above link or reach out and we'll connect you.
 
-Feel free to [contact us here with any questions]({{site.baseurl}}/contact/).
+Revised June 2018  -- Questions? [Contact us here](../contact/).

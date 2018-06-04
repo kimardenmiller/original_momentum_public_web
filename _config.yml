@@ -68,3 +68,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", ".idea/wor
 
 sass:
     sass_dir: assets/css/sass
+
+collections:
+  momentum_content:
+    output: true

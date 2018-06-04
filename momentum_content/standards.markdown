@@ -99,4 +99,4 @@ The Chief may not sign checks or otherwise unilaterally authorize transfer of mo
 
 --------------------------------------------------------------------------------------------------------------
 
-Revised January 2018  -- Questions? Feel free to [contact us here]({{site.baseurl}}/contact/).
+Revised January 2018  -- Questions? [Contact us here]({{site.baseurl}}/contact/).
