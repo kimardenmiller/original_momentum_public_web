@@ -3,7 +3,7 @@ layout: post
 title: "Momentum Standards"
 img: bramhall_circle.jpg
 description: Momentum Standards
-permalink: /standards/
+permalink: /legacy/
 author-name: Momentum
 author-photo: momentum_logo_darker.png
 about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.

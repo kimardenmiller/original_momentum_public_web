@@ -3,7 +3,7 @@ layout: post
 title: "Momentum Connection"
 img: bramhall_circle.jpg # Add image (optional)
 description: Come to a Meeting
-permalink: /come-to-a-meeting/
+permalink: /monthly-meeting/
 author-name: Momentum
 author-photo: momentum_logo_darker.png
 about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
