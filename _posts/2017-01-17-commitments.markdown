@@ -6,12 +6,47 @@ date: 2017-01-14 12:55:00 +0300
 description: Moe Rubenzahl presented this powerful on article on commitments at the January 2017 General Meeting. This is a timeless article that we should return to often. I encourage men to make commitments to your team, at GMs, and in the growth category of Discourse. This is a key way to Own Momentum in our lives.
 tag: [Men's-Work, Growth, Commitments]
 ---
-# Conceptual  Blog Post Example
+# Living on the Edge: Making and Keeping Commitments
 
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+_What’s the difference between 99% and 100%?_
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+When it comes to living life on the edge, math warps. In this world, the difference between 100% and 99% is the same as the difference between 100% and 10%; or 100% and 99.9999% — it’s infinite. There is only: 100%, and not 100%.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+Have you had that experience? For me, 100% was college. From the moment I began, there was never the slightest doubt that I would graduate in June, four years later. The idea of quitting or failing or postponing was never in my head, even for an instant. I saw people quit, I saw some fail, I saw some postpone, and had no criticism of their choices. But never at all did the possibility ever come up for me that I would be anywhere else but graduation on that June day. It just never came up.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+It was life on the edge, a peak experience. It made me a different person. I’ve had others since then. Grad school. My first engineering design project. My first management post. Nation of Men Chief. Peak experiences defined by the certainty of heroic completion.When it comes to living life on the edge, math warps. In this world, the difference between 100% and 99% is the same as the difference between 100% and 10%; or 100% and 99.9999% — it’s infinite. There is only: 100%, and not 100%.
+
+Have you had that experience? For me, 100% was college. From the moment I began, there was never the slightest doubt that I would graduate in June, four years later. The idea of quitting or failing or postponing was never in my head, even for an instant. I saw people quit, I saw some fail, I saw some postpone, and had no criticism of their choices. But never at all did the possibility ever come up for me that I would be anywhere else but graduation on that June day. It just never came up.
+
+It was life on the edge, a peak experience. It made me a different person.
+I’ve had others since then. Grad school. My first engineering design project. My first management post. Nation of Men Chief. Peak experiences defined by the certainty of heroic completion.
+
+## The technology of commitment
+People often look for the magic secret to happiness or success. And the muse always tells us, enigmatically, that the magic secret is that there is no magic secret. Well, sometimes there is. The magic formula for commitment is:
+
+1. Make commitments
+2. Honor your commitment: Do your best to keep it but if you fail, clean it up and move on.
+3. Repeat step 1.
+Step 2 is where a lot of people mess up but step 3 is the critical one.
+
+## Defining commitment
+Are we in the mood for another magic secret? These are the rules for commitment. Run any commitment you make past these rules and you will know whether this commitment takes you to the edge.
+
+* **A good commitment is doable**. Do you know people who make outlandish, flashy commitments but never land any? This is a way to pretend you’re on the edge. When you fail, you can always say that it was impossible.
+
+* **A good commitment is a stretch**. Making a weenie commitment is worse than no commitment at all. It’s like arm wrestling a skinny girl: If you win, who cares, and if you lose, you really feel like a loser.
+How can you tell if it’s a stretch? Think forward and imagine you have done it. If you feel a great win then yes, it’s a stretch.
+
+* **It’s measurable**. You need an absolute, for sure way to know you have won or lost. Sometimes this is very hard; but apply creative thought. I have never seen a commitment that could not be measured.
+
+* **It’s public**. If you want this to be life on the edge, make your commitment public. It’s not about motivation, credit, or shame — it’s about sharing who you are, sharing your quest, and ultimately, sharing your win to empower those around you.
+
+## A way of life. 
+
+Remember step three: “Repeat step one.” By repeating high-quality commitments, you build a life-affirming habit.
+
+And there is really a fourth step, beyond committing again and again. That’s to play higher by supporting others to commit. It’s an opportunity to make commitment a way of life for me and those around me, and to be supported in it by men I trust. Of course, this means I have to live on the edge around the whole subject of commitment.
+
+— _Moe Rubenzahl_
+
+[You can read Moe’s article here]({{"/assets/pdf/commitment.pdf" | absolute_url }})
