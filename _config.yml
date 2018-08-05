@@ -21,7 +21,7 @@ banner-title: Momentum
 banner-desc: A community of men who support each other to be our best.
 #banner-desc: An alternative social contract between men that places transparency over self-promotion.
 # banner call to action
-banner-call-to-action: Make Your Move
+banner-call-to-action: Learn More
 
 # Author settings
 #author-name: Momentum
@@ -36,7 +36,7 @@ contact: /contact/
 phone:  # phone number unused as of May 16, 2018
 
 # Social link
-meet_up_url:    https://www.meetup.com/GoMomentum/
+meet_up_url:    https://www.meetup.com/GoMomentum/events/
 facebook_url:   https://www.facebook.com/nationofmen/
 discourse_url:  http://discourse.gomomentum.org/
 google_url:    # add url link

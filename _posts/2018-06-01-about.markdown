@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'About Momentum'
+title: 'Learn More'
 img: bramhall_circle.jpg # Add image (optional)
 date: 2018-06-09 16:00:00 -0800 
 description: About Momentum # Add description (optional)
