@@ -2,6 +2,22 @@
 
 .main_footer
   background-color: $header_footer_dark
+
+.footer_menu
+  text-align: center
+  ul
+      margin: 15px 5px 20px 5px
+      li
+          display: inline
+          padding: 10px
+          font-size: .9rem
+          a
+            color: $border_color_gray
+            text-decoration: none
+            &:hover
+              // background-color: $momentum_red
+              color: $momentum_gold
+
 .social_footer
   padding: 3rem 0
   list-style: none
@@ -12,7 +28,7 @@
     display: inline-block
     margin-left: 0.5rem
   a
-    color: #7b7b7b
+    color: $button_soft_grey
     display: inline-block
     padding: 0.5rem 1rem
     margin: 0.3rem 0

@@ -2,8 +2,13 @@
 <footer class="main_footer">
   <div class="wrapper">
     {% include social_footer.html %}
+    <div class='footer_menu'>
+        {% include main_menu.html %}
+    </div>
     <div class="copyright">
-      <p>&copy; {{site.time | date: '%Y'}} All rights reserved.   <a href="https://www.gomomentum.org/" target="_blank">Momentum</a></p>
+      <p>&copy; {{site.time | date: '%Y'}} All rights reserved.
+        <a href="https://www.gomomentum.org/" target="_blank">Momentum</a>
+      </p>
     </div>
   </div>
 </footer> <!-- End Section Footer -->
