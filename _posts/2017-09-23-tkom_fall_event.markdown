@@ -6,9 +6,9 @@ date: 2017-09-08 16:00:00 -0800
 description: TKOm is a powerful process that can help us Own Momentum in our lives.
 tag: [NVC, Growth, Fall-Event]
 ---
-# TKOm -- a Powerful Process of Discovery
+# TKOm -- A Powerful Process of Discovery
 
-The 2017 Fall Event's focus was deeper self-knowledge, and the TKOm weekend will deliver a four-step process to increasing your personal power, owning our life, and specifically, being strong and grounded to avoid emotional triggers that life puts in our path. TKOm is a powerful process that can help us _Own Momentum_ in our lives.  
+The 2017 Fall Event's focus was deeper self-knowledge, and the TKOm weekend delivered a four-step process to increasing your personal power, owning our life, and specifically, being strong and grounded to avoid emotional triggers that life puts in our path. TKOm is a powerful process that can help us _Own Momentum_ in our lives.  
 
 
 TKOm stands for:
@@ -29,6 +29,6 @@ Here is an example:
 
 * **K:** John feels diminished and untrusted to use what appears to him as basic common sense discretion. To his knowledge, John has never given her any reason to doubt his discretion.
 
-* **O:** John is confident he would not have violated any of the boundaries she seems so anxious about. John does not feel he needs to be coached, and wants to be trusted based on his own track record of for discretion, not the worst-case fears that seem to be coming up for her. 
+* **O:** John is confident he would not have violated any of the boundaries she seems so anxious about. John does not feel he needs to be coached and wants to be trusted based on his own track record of for discretion, not the worst-case fears that seem to be coming up for her. 
 
-* **M**: John wants to ask his wife to maintain a higher level of trust in his ability to be discrete unless she can explain why he's not deserving of her trust.
+* **M**: John decides to ask his wife to hold a higher level of trust in his ability to be discrete unless she can explain why he's not deserving of her trust.
