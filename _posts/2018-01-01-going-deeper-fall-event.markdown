@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fall Event 2018'
-img: steve_tkom.jpg # Add image post (optional)
+title: 'Going Deeper 2018'
+img: music.jpg # Add image post (optional)
 date: 2018-01-01 16:00:00 -0800 
 description: TKOm is a powerful process that can help us Own Momentum in our lives.
 tag: [Fall-Event, Growth, NVC]
