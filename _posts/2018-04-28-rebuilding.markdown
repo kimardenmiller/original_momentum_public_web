@@ -4,6 +4,9 @@ title: 'Giving Back'
 img: service_lee.jpg # Add image post (optional)
 date: 2018-04-28 08:00:00 -0800
 description: # Add post description (optional)
+author-name: Momentum
+author-photo: momentum_logo_darker.png
+about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
 tag: [Service, Projects, Giving-Back]
 ---
 # Truly Rebuilding Together

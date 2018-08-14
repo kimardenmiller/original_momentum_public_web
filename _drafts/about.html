@@ -52,10 +52,10 @@ layout: default
         <p class="author_subtitle">{% if page.about-author %}{{page.about-author}}{% else %}{{site.about-author}}{% endif %}</p>
         <div class="author_social">
           {% if site.contact %}
-          <span class="author_website"><i class="fab fa-link" aria-hidden="true"></i>
+          <span class="author_website"><i class="fas fa-comment-dots" aria-hidden="true"></i>
             <a href="{{site.contact | prepend: site.baseurl}}" target="_blank">Click here to contact Momentum</a></span>
           {% else %}
-          <span class="author_website"><i class="fab fa-link" aria-hidden="true"></i>
+          <span class="author_website"><i class="fas fa-comment-dots" aria-hidden="true"></i>
             <a href="{{site.website}}" target="_blank"></a></span>
           {% endif %}
         </div>
@@ -69,7 +69,7 @@ layout: default
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
-            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
           {% endif %}
         {% endfor %}
       </div>

@@ -94,10 +94,6 @@
     .author_title
       font-size: 1.5rem
       margin-top: 0
-//      color: was_$dark_gray
-//      &::before,
-//      &::after
-//        content: " - "
   .author_social
     span
       display: inline-block
@@ -110,10 +106,13 @@
       &:last-child
         border-right: none
       a
-        color: #667085
+        color: $momentum_green
         text-decoration: none
         &:hover
+          color: $momentum_red
           opacity: .9
+      i
+        color: $border_color_gray
 
 .recent_box
   background-color: $white

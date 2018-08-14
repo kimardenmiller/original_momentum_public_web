@@ -4,6 +4,9 @@ title: "Commitments"
 img: moe_adventure.jpg # Add image post
 date: 2017-01-14 12:55:00 +0300
 description: Moe Rubenzahl presented this powerful on article on commitments at the January 2017 General Meeting. This is a timeless article that we should return to often. I encourage men to make commitments to your team, at GMs, and in the growth category of Discourse. This is a key way to Own Momentum in our lives.
+author-name: Moe Rubenzahl
+author-photo: profile138_moe_R.png
+about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
 tag: [Men's-Work, Growth, Commitments]
 ---
 # Living on the Edge: Making and Keeping Commitments
@@ -48,5 +51,3 @@ Remember step three: “Repeat step one.” By repeating high-quality commitment
 And there is really a fourth step, beyond committing again and again. That’s to play higher by supporting others to commit. It’s an opportunity to make commitment a way of life for me and those around me, and to be supported in it by men I trust. Of course, this means I have to live on the edge around the whole subject of commitment.
 
 — _Moe Rubenzahl_
-
-[You can read Moe’s article here]({{"/assets/pdf/commitment.pdf" | absolute_url }})
