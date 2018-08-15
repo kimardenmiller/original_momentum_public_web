@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   An alternative social contract for men prioritizing transparency over self-promotion.
 permalink: ':title/'
 baseurl: "/Momentum" # the sub-path of your site, e.g. /blog
-url: "http://kimardenmiller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.gomomentum.org" # Was http://kimardenmiller.github.io" the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 poster: momentum_gm.jpg # add banner video. Add your video file to the folder video
