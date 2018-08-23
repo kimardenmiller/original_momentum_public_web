@@ -5,9 +5,9 @@ img: bramhall_circle.jpg # Add image (optional)
 date: 2018-06-09 16:00:00 -0800 
 description: About Momentum # Add description (optional)
 permalink: /about_us/
-author-name: Momentum
-author-photo: momentum_logo_darker.png
-about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
+author-name: 
+author-photo: 
+about-author: 
 ---
 _Momentum is a local, not-for-profit men’s community supporting men and men’s teams._
 

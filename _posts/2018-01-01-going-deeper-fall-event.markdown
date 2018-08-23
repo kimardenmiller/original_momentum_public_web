@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Going Deeper 2018'
-img: music.jpg # Add image post (optional)
+img: curt3.jpg # Add image post (optional)
 date: 2018-01-01 16:00:00 -0800 
 description: TKOm is a powerful process that can help us Own Momentum in our lives.
-author-name: Momentum
-author-photo: momentum_logo_darker.png
-about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
+author-name: 
+author-photo: 
+about-author: 
 tag: [Fall-Event, Growth, NVC]
 ---
 Going Deeper

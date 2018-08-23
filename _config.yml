@@ -24,9 +24,9 @@ banner-desc: A community of men who support each other to be our best.
 banner-call-to-action: Learn More
 
 # Author settings
-#author-name: Momentum
-#author-pic: momentum_logo_darker.png # gif portable logo
-#about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
+author-name: Momentum
+author-pic: momentum_logo_darker.png  # gif portable logo
+about-author: Momentum is a local, not-for-profit men’s community.
 #about-image: bramhall_circle.jpg
 
 # contact settings
@@ -35,7 +35,7 @@ website: http://gomomentum.org/ # our main website
 contact: /contact/
 phone:  # phone number unused as of May 16, 2018
 
-# Social link
+# Social link -- Aug 16, 2018social links working on final site, but only FB has a good preview
 meet_up_url:    https://www.meetup.com/GoMomentum/events/
 facebook_url:   https://www.facebook.com/nationofmen/
 discourse_url:  http://discourse.gomomentum.org/
@@ -49,7 +49,7 @@ discus_identifier: gomomentum # add your discus identifier
 # Newsletter
 mailchimp: gomomentum.us18.list-manage.com/subscribe/post?u=cd428163397aafa9f23b0ee8a&amp;id=f700eb71e1
 
-# Tracker TODO 8:gomomentum.org URL: set up
+# Tracker TODO 8: take a look at traffic
 analytics: UA-19737734-1
 
 # Paginate
