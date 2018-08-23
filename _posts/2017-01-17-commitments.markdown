@@ -17,7 +17,7 @@ When it comes to living life on the edge, math warps. In this world, the differe
 
 Have you had that experience? For me, 100% was college. From the moment I began, there was never the slightest doubt that I would graduate in June, four years later. The idea of quitting or failing or postponing was never in my head, even for an instant. I saw people quit, I saw some fail, I saw some postpone, and had no criticism of their choices. But never at all did the possibility ever come up for me that I would be anywhere else but graduation on that June day. It just never came up.
 
-It was life on the edge, a peak experience. It made me a different person. I’ve had others since then. Grad school. My first engineering design project. My first management post. Nation of Men Chief. Peak experiences defined by the certainty of heroic completion.When it comes to living life on the edge, math warps. In this world, the difference between 100% and 99% is the same as the difference between 100% and 10%; or 100% and 99.9999% — it’s infinite. There is only: 100%, and not 100%.
+It was life on the edge, a peak experience. It made me a different person. I’ve had others since then. Grad school. My first engineering design project. My first management post. Nation of Men Chief. Peak experiences defined by the certainty of heroic completion.
 
 ## The technology of commitment
 People often look for the magic secret to happiness or success. And the muse always tells us, enigmatically, that the magic secret is that there is no magic secret. Well, sometimes there is. The magic formula for commitment is:
