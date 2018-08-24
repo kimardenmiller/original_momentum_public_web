@@ -4,11 +4,11 @@ title: 'About Momentum'
 img: bramhall_circle.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /about_us/
-author-name: Momentum
-author-photo: momentum_logo_darker.png
-about-author: Momentum is a local, not-for-profit men’s community supporting men and men’s teams.
+author-name: 
+author-photo: 
+about-author: 
 ---
-_Momentum is a local, not-for-profit men’s community supporting men and men’s teams._
+_Momentum is a local, not-for-profit men’s community supporting men._
 
 ## **Momentum is for men**
 Our focus is on men’s work and being the best men we can be. While we enjoy time with all the people in our lives, we see a special benefit men get when they work and play together.
@@ -30,6 +30,6 @@ We support each other to live an engaged life, be true to our values, and adhere
 When we give, we get. We see the value in contributing our gifts and talents to benefit our communities, families, teams, and each other. Giving grows relationships. We give to Momentum: Our community is only as strong as we make it.
 
 ## **Learn More**
-The best way to get to know us is to [come visit](../monthly-meeting/), as most of what we are about can only happen face-to-face. But if you are itching to dig deeper before visiting, [check out our standards](../legacy/). 
+The best way to get to know us is to [come visit](../monthly-meeting/), as most of what we are about can only happen face-to-face. But if you are itching to dig deeper before visiting, [check out our standards](../legacy/) and [our charter](../charter/). 
 
 Revised June 2018  -- Questions? [Contact us here](../contact/).
