@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Find Connection"
-img: team_wide.jpg # Add image (optional)
+img: davinci_meeting.jpg # Add image (optional)
 description: Come to a Meeting
 permalink: /monthly-meeting/
 author-name: 
