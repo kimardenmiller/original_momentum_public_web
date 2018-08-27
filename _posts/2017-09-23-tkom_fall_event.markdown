@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "TKOm 2017"
-img: steve_tkom.jpg # Add image post (optional)
-date: 2017-09-08 16:00:00 -0800 
+img: tkom_kim_don.jpg # Add image post (optional)
+date: 2017-09-23 16:00:00 -0800 
 description: TKOm is a powerful process that can help us Own Momentum in our lives.
 author-name: 
 author-photo: 

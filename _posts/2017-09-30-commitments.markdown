@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Commitments"
-img: moe_adventure.jpg # Add image post
-date: 2017-01-14 12:55:00 +0300
+img: kim_rafting.jpg # Add image post
+date: 2017-09-30 12:55:00 +0300
 description: Moe Rubenzahl presented this powerful on article on commitments at the January 2017 General Meeting. This is a timeless article that we should return to often. I encourage men to make commitments to your team, at GMs, and in the growth category of Discourse. This is a key way to Own Momentum in our lives.
 author-name: Moe Rubenzahl
 author-photo: profile138_moe_R.png
