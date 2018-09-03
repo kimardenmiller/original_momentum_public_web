@@ -8,7 +8,6 @@ author-name:
 author-photo: 
 about-author: 
 ---
-[//]: # (TODO make a link on Discourse)
 
 Charter
 =======
