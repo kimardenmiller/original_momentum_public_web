@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Become a Member'
-img: bramhall_circle.jpg # Add image (optional)
+img: fall_event_guys.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /join/
 author-name: 
