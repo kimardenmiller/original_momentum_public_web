@@ -9,9 +9,6 @@ author-photo:
 about-author: 
 tag: [Fall-Event, Growth, NVC]
 ---
-Going Deeper
-=
-**Going Deeper - the Momentum 2018 Fall Event**
 
 The 2018 Momentum Fall Event theme is **Going Deeper** – in your relationships, within yourself, and in your life. This weekend event in the Santa Cruz Mountains is an opportunity for you to explore ways you can improve the most important relationships in your life, by making deeper connections. In addition, you will experience Fun, Food, and Fire, with a group of energetic and powerful Men.
 
