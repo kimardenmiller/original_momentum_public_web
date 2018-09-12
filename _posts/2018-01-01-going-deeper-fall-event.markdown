@@ -11,33 +11,32 @@ tag: [Fall-Event, Growth, NVC]
 ---
 Going Deeper
 =
-The 2018 Momentum Fall Event theme is Going Deeper -- in your relationships, within yourself, and in your life. This weekend event in the Santa Cruz Mountains is an opportunity for you to explore ways you can improve the most important relationships in your life, by making deeper connections. In addition, you will experience Fun, Food, and Fire, with a group of energetic and powerful Men.
+**Going Deeper - the Momentum 2018 Fall Event**
 
-When: September 28 - 30, 2018
-Where: Camp Cutter in the Santa Cruz Mountains, near Big Basin
+The 2018 Momentum Fall Event theme is **Going Deeper** – in your relationships, within yourself, and in your life. This weekend event in the Santa Cruz Mountains is an opportunity for you to explore ways you can improve the most important relationships in your life, by making deeper connections. In addition, you will experience Fun, Food, and Fire, with a group of energetic and powerful Men.
 
-Cost:
+**When**: September 28 - 30, 2018
+**Where**: Camp Cutter in the Santa Cruz Mountains, near Big Basin
 
--   $160 ("early bird", before July 31)
--   $190 (after July 31)
--   $230 (non-Momentum-member)
+**Cost**:
+* $190 (after July 31)
+* $230 (non-Momentum-member)
 
-Cost includes:
+**Cost includes**:
+* Tent site, or accommodation in the Lodge or a tent cabin
+* All weekend materials – except what you are requested to bring, listed in the Packing List
+* All Meals:
+Dinner Friday night
+All meals on Saturday
+Breakfast and Lunch on Sunday
+Water, Tea, Coffee, and Healthy Snacks
+* Fun, camaraderie, and opportunities for personal growth, with a group of good men
 
--   Tent site, or accommodation in the Lodge or a tent cabin
--   All weekend materials -- except what you are requested to bring, listed in the Packing List
--   All Meals:
-    -   Dinner Friday night
-    -   All meals on Saturday
-    -   Breakfast and Lunch on Sunday
--   Water, Tea, Coffee, and Healthy Snacks
--   Fun, camaraderie, and opportunities for personal growth, with a group of good men
+**Notes**:
+* Men who register after August 20 may not get a T-shirt
+* On-line registration closes September 10
+* Men only – You must be 18 or older to participate
 
-Notes:
-
--   Early Bird Registration Price is Valid until 7/31/2018
--   Men who register after August 20 may not get a T-shirt
--   On-line registration closes September 10
--   Men only -- You must be 18 or older to participate
+See who has already registered [here](https://discourse.gomomentum.org/groups/event-fallevent2018/members).
 
 ### [Register by clicking here](https://goo.gl/forms/47YJA5OW7g1PhqrA3)
