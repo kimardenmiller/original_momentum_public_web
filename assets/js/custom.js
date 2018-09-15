@@ -17,7 +17,7 @@ window.onload = function () {
   v.playbackRate = {{site.video_playback_rate}}
 };
 
-var deer = '+support';
+var deer = '+launchpadiv';
 var rae = 'own';
 var fa = 'momentum';
 var doe = "@";
