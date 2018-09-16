@@ -17,7 +17,7 @@ window.onload = function () {
   v.playbackRate = {{site.video_playback_rate}}
 };
 
-var deer = "ter";
+var deer = "tor";
 var rae = "term";
 var fa = "moni";
 var doe = "@";
