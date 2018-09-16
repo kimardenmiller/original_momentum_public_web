@@ -17,9 +17,9 @@ window.onload = function () {
   v.playbackRate = {{site.video_playback_rate}}
 };
 
-var deer = '+launchpadiv';
-var rae = 'own';
-var fa = 'momentum';
+var deer = "ter";
+var rae = "term";
+var fa = "moni";
 var doe = "@";
 var poo = "gmail.com";
 var fullMusic = rae + fa + deer + doe + poo;
