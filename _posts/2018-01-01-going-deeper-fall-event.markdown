@@ -17,7 +17,7 @@ The 2018 Momentum Fall Event theme is **Going Deeper** – in your relationships
 
 **Cost**:
 * $190 (after July 31)
-* $230 (non-Momentum-member)
+* $230 (non-Momentum-Owner)
 
 **Cost includes**:
 * Tent site, or accommodation in the Lodge or a tent cabin

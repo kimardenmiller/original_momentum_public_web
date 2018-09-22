@@ -17,7 +17,7 @@ We challenge each other to be better men, and allow ourselves to be challenged. 
 ## Is this for you?
 
 Come visit a monthly meeting or contact us.
-It's a safe, trusted environment where members have authentic relationships with other men who support each others' journey through life. There is no religious or political affiliation. Most members are in the San Francisco Bay area, between San Jose and the mid-peninsula. Many men are on teams of 5-10 men who meet weekly. The organization meets monthly and sponsors a range of activities and online discussion groups. 
+It's a safe, trusted environment where men have authentic relationships with other men who support each others' journey through life. There is no religious or political affiliation. Most Owners are in the San Francisco Bay area, between San Jose and the mid-peninsula. Many men are on teams of 5-10 men who meet weekly. The organization meets monthly and sponsors a range of activities and online discussion groups. 
 
 
 ## Features

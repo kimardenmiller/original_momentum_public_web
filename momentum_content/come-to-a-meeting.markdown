@@ -20,7 +20,7 @@ Our monthly meeting is where much of the fun, growth and friendship happens! We 
     allowfullscreen>
 </iframe>
 
-Social time over breakfast after the meeting will give you an additional opportunity to meet the members. All men are welcome, and there is no charge to attend. New to Momentum? We will help you get acquainted. You will meet many of the members, learn our customs and principles, and have opportunities for growth and relationship.
+Social time over breakfast after the meeting will give you an additional opportunity to meet the Owners. All men are welcome, and there is no charge to attend. New to Momentum? We will help you get acquainted. You will meet many of the Owners, learn our customs and principles, and have opportunities for growth and relationship.
 
 Not into larger gatherings? Even more central to the Momentum experience are our small-group meetings, which you will also see listed at the above link or reach out and we'll connect you.
 
