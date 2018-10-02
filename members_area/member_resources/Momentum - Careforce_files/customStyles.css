@@ -1,0 +1,926 @@
+BODY
+{
+  font-size: 14px;
+  background-color: #99CCFF;}
+
+.cnPrimaryContentContainer .d8PrimaryContentContainer,
+.cnHeaderSeparatorTopCorners.cornersContainer .topCorners .c1,
+.cnHeaderSeparatorTopCorners.cornersContainer .topCorners .c2,
+.cnHeaderSeparatorTopCorners.cornersContainer .topCorners .c3,
+.cnHeaderSeparatorTopCorners.cornersContainer .topCorners .c4,
+.cnHeaderSeparatorTopCorners.cornersContainer .topCorners .c5,
+.mainMenuContainer .d8,
+.cnFooterSeparatorBottomCorners .bottomCorners .c2,
+.cnFooterSeparatorBottomCorners .bottomCorners .c3,
+.cnFooterSeparatorBottomCorners .bottomCorners .c4,
+.cnFooterSeparatorBottomCorners .bottomCorners .c5,
+.cnPrimaryContentBlock1Content,
+.cnPrimaryContentBlock1ContentHolder,
+.cnPrimaryContentBlock1ContentHolderEventAdmin
+{
+	background-color: #E1F8FF;}
+
+
+BODY, TD, P
+{ 
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+BODY, TD, P, H1, H2, H3, H4, H5, H6
+{ 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #000000;
+}
+
+A, A:link, A:active, A:visited
+{text-decoration: underline;
+  color: #285CAA;
+}
+A:hover
+{text-decoration: underline;
+  color: #19396A;
+}
+
+H1,
+.cnPrimaryContentBlock1Content H1
+{font-size: 1.85em;
+	font-weight: bold;color: #000000;
+}
+
+H2,
+.cnPrimaryContentBlock1Content H2
+{font-size: 1.60em;
+	font-weight: bold;color: #000000;
+}
+
+H3,
+.cnPrimaryContentBlock1Content H3
+{font-size: 1.35em;
+	font-weight: bold;color: #000000;
+}
+
+H4,
+.cnPrimaryContentBlock1Content H4
+{font-size: 1.10em;
+	font-weight: bold;color: #000000;
+}
+
+H1.contStyleExcHeadingColored,
+.cnPrimaryContentBlock1Content H1.contStyleExcHeadingColored
+{color: #334A94;
+}
+
+H2.contStyleExcHeadingColored,
+.cnPrimaryContentBlock1Content H2.contStyleExcHeadingColored
+{color: #334A94;
+}
+
+H3.contStyleExcHeadingColored,
+.cnPrimaryContentBlock1Content H3.contStyleExcHeadingColored
+{color: #334A94;
+}
+
+H4.contStyleExcHeadingColored,
+.cnPrimaryContentBlock1Content H4.contStyleExcHeadingColored
+{color: #334A94;
+}
+
+p.contStyleExcInlineColored1
+{color: #334A94;
+}
+
+p.contStyleExcInlineColored2
+{color: #6B9EDF;
+}
+
+.quotedText
+{}
+
+p.contStyleExcInlineHighlighted
+{
+  background-color: #99E6FF;color: #FFFFFF;
+}
+
+.loginContainer .inner
+{
+  background-color: Transparent;
+}
+
+.loginContainer .inner .inner
+{
+  background-color: transparent;
+}
+
+.loginContainer .loginUserNameLabel LABEL,
+.loginContainer .loginPasswordLabel LABEL,
+.loginContainer .loginActionRememberMe LABEL
+{font-size: 1.0em;color: #FFFFFF;
+}
+.loginContainer .loginActionRememberMe LABEL
+{font-size: 1.0em;color: #FFFFFF;
+}
+.loginContainer .loginPasswordForgot A,
+.loginContainer .loginPasswordForgot A:link,
+.loginContainer .loginPasswordForgot A:active,
+.loginContainer .loginPasswordForgot A:visited
+{font-size: 1.0em;color: #75ACFF;
+}
+.loginContainer .loginPasswordForgot A:hover
+{font-size: 1.0em;color: #6290D6;
+}
+.loginContainer .loggedName span
+{font-size: 1.0em;color: #FFFFFF;
+}
+.loginContainer DIV.profileBox A,
+.loginContainer DIV.profileBox A:link,
+.loginContainer DIV.profileBox A:active,
+.loginContainer DIV.profileBox A:visited
+{font-size: 1.0em;color: #75ACFF;
+}
+.loginContainer DIV.profileBox A:hover
+{font-size: 1.0em;color: #6290D6;
+}
+
+.loginContainer SPAN.mandatorySymbol
+{}
+
+.mainMenu .menuLevel1 td A,
+.mainMenu .menuLevel1 td A:link,
+.mainMenu .menuLevel1 td A:active,
+.mainMenu .menuLevel1 td A:visited
+{font-size: 0.85em;
+	font-weight: bold;text-decoration: none;
+	color: #99E6FF;
+}
+
+.mainMenu .menuLevel1 td A:hover,
+.mainMenu .menuLevel1 td.itemNormal:hover A,
+.mainMenu .menuLevel1 td.itemCurrentParent A:hover
+{font-size: 0.85em;color: #99E6FF;
+}
+
+.mainMenu .menuLevel1 td.itemCurrentParent A,
+.mainMenu .menuLevel1 td.itemCurrentParent A:link,
+.mainMenu .menuLevel1 td.itemCurrentParent A:active,
+.mainMenu .menuLevel1 td.itemCurrentParent A:visited,
+.mainMenu .menuLevel1 td SPAN SPAN
+{color: #FFFFFF;
+}
+
+.mainMenuContainer .menuLevel2Outer
+{}
+
+.mainMenuContainer .menuLevel2 SPAN.item SPAN A,
+.mainMenuContainer .menuLevel2 SPAN.item SPAN A:link,
+.mainMenuContainer .menuLevel2 SPAN.item SPAN A:active,
+.mainMenuContainer .menuLevel2 SPAN.item SPAN A:visited
+{font-size: 0.85em;
+	font-weight: bold;color: #000000;
+}
+
+.mainMenuContainer .menuLevel2 SPAN.item SPAN SPAN
+{font-size: 0.85em;color: #FFFFFF;
+}
+
+.mainMenuContainer .menuLevel2 SPAN.item SPAN A:hover,
+.mainMenuContainer .menuLevel2 SPAN.item:hover SPAN A
+{font-size: 0.85em;color: #FFFFFF;
+}
+
+.mainMenuContainer .menuLevel3Outer
+{}
+
+.mainMenuContainer .menuLevel3 SPAN.item SPAN A,
+.mainMenuContainer .menuLevel3 SPAN.item SPAN A:link,
+.mainMenuContainer .menuLevel3 SPAN.item SPAN A:active,
+.mainMenuContainer .menuLevel3 SPAN.item SPAN A:visited
+{font-size: 0.85em;
+	font-weight: normal;color: #000000;
+}
+
+.mainMenuContainer .menuLevel3 SPAN.item SPAN SPAN
+{font-size: 0.85em;color: #FFFFFF;
+}
+
+.mainMenuContainer .menuLevel3 SPAN.item SPAN A:hover,
+.mainMenuContainer .menuLevel3 SPAN.item:hover SPAN A
+{font-size: 0.85em;background-color: #749EAB;
+	color: #FFFFFF;
+}
+
+
+.mainMenu TD.itemNormal:hover UL.dynamic,
+.mainMenu TD.itemNormal A:hover UL.dynamic,
+.mainMenu SPAN.itemNormal UL.dynamic,
+.mainMenu TD UL LI.itemNormal:hover UL.dynamic,
+.mainMenu TD UL LI.itemNormal A:hover UL.dynamic,
+.mainMenu TD.itemNormal UL.dynamic LI.itemNormal:hover UL.dynamic,
+.mainMenu SPAN.itemNormal UL.dynamic LI.itemNormal:hover UL.dynamic,
+.mainMenu TD.itemNormal UL.dynamic LI.itemNormal A:hover UL.dynamic,
+.mainMenu SPAN.itemNormal UL.dynamic LI.itemNormal A:hover UL.dynamic,
+.mainMenu TD UL LI.itemNormal A:hover TABLE.dynamic UL.dynamic,
+.mainMenu TD.itemNormal TABLE.dynamic UL.dynamic LI.itemNormal A:hover TABLE.dynamic UL.dynamic,
+.mainMenu SPAN.itemNormal TABLE.dynamic UL.dynamic LI.itemNormal A:hover TABLE.dynamic UL.dynamic
+{}
+
+.mainMenu TD.itemNormal:hover UL.dynamic,
+.mainMenu TD.itemNormal A:hover UL.dynamic,
+.mainMenu SPAN.itemNormal UL.dynamic,
+.mainMenu .itemNormal  .bottomCorners .c2,
+.mainMenu .itemNormal  .bottomCorners .c4,
+.mainMenu .itemNormal  .bottomCorners .c5,
+.mainMenu .itemNormal .topCorners .c2,
+.mainMenu .itemNormal .topCorners .c4,
+.mainMenu .itemNormal .topCorners .c5
+{
+	background: #545657;
+}
+
+.mainMenu TD UL.dynamic LI A,
+.mainMenu TD UL.dynamic LI A:link,
+.mainMenu TD UL.dynamic LI A:active,
+.mainMenu TD UL.dynamic LI A:visited,
+.mainMenu TD UL.dynamic LI A:hover,
+.mainMenu TD.itemNormal:hover UL.dynamic LI A,
+.mainMenu TD.itemNormal:hover UL.dynamic LI A:link,
+.mainMenu TD.itemNormal:hover UL.dynamic LI A:active,
+.mainMenu TD.itemNormal:hover UL.dynamic LI A:visited,
+.mainMenu TD.itemNormal:hover UL.dynamic LI A:hover,
+.mainMenu SPAN.itemNormal UL.dynamic LI A,
+.mainMenu SPAN.itemNormal UL.dynamic LI A:link,
+.mainMenu SPAN.itemNormal UL.dynamic LI A:active,
+.mainMenu SPAN.itemNormal UL.dynamic LI A:visited,
+.mainMenu SPAN.itemNormal UL.dynamic LI A:hover
+{text-decoration: none;
+	color: #99E6FF;
+}
+
+.mainMenu TD.itemNormal:hover UL.dynamic LI:hover A,
+.mainMenu TD.itemNormal A:hover UL.dynamic LI A:hover,
+.mainMenu SPAN.itemNormal UL.dynamic LI:hover A,
+.mainMenu SPAN.itemNormal UL.dynamic LI A:hover
+{
+	background-color: #749EAB;color: #FFFFFF;
+}
+
+.mainMenu TD UL LI.itemNormal:hover UL.dynamic,
+.mainMenu TD UL LI.itemNormal A:hover UL.dynamic,
+.mainMenu TD.itemNormal UL.dynamic LI.itemNormal:hover UL.dynamic,
+.mainMenu SPAN.itemNormal UL.dynamic LI.itemNormal:hover UL.dynamic,
+.mainMenu TD.itemNormal UL.dynamic LI.itemNormal A:hover UL.dynamic,
+.mainMenu SPAN.itemNormal UL.dynamic LI.itemNormal A:hover UL.dynamic,
+.mainMenu TD UL LI.itemNormal A:hover TABLE.dynamic UL.dynamic,
+.mainMenu TD.itemNormal TABLE.dynamic UL.dynamic LI.itemNormal A:hover TABLE.dynamic UL.dynamic,
+.mainMenu SPAN.itemNormal TABLE.dynamic UL.dynamic LI.itemNormal A:hover TABLE.dynamic UL.dynamic,
+.mainMenu  .itemNormal .itemNormal  .bottomCorners .c2,
+.mainMenu  .itemNormal .itemNormal  .bottomCorners .c4,
+.mainMenu  .itemNormal .itemNormal  .bottomCorners .c5,
+.mainMenu  .itemNormal .itemNormal .topCorners .c2,
+.mainMenu  .itemNormal .itemNormal  .topCorners .c4,
+.mainMenu  .itemNormal .itemNormal .topCorners .c5
+{}
+
+.mainMenu TD UL LI UL.dynamic LI A,
+.mainMenu TD UL LI UL.dynamic LI A:link,
+.mainMenu TD UL LI UL.dynamic LI A:active,
+.mainMenu TD UL LI UL.dynamic LI A:visited,
+.mainMenu TD UL LI UL.dynamic LI A:hover,
+.mainMenu TD.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A,
+.mainMenu TD.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:link,
+.mainMenu TD.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:active,
+.mainMenu TD.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:visited,
+.mainMenu TD.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:hover,
+.mainMenu SPAN.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A,
+.mainMenu SPAN.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:link,
+.mainMenu SPAN.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:active,
+.mainMenu SPAN.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:visited,
+.mainMenu SPAN.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI A:hover
+{text-decoration: none;
+	color: #99E6FF;
+}
+
+.mainMenu TD.itemNormal:hover UL.dynamic LI.itemNormal:hover UL.dynamic LI:hover A,
+.mainMenu TD.itemNormal A:hover UL.dynamic LI.itemNormal A:hover UL.dynamic LI A:hover
+{
+	background-color: #749EAB;color: #FFFFFF;
+}
+
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle,
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle a,
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle a:link,
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle a:hover,
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle a:active,
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle a:visited,
+
+
+
+
+
+
+h1.pageTitle,
+.cnPrimaryContentBlock1Content h1.pageTitle
+{color: #000000;
+}
+
+.cnPrimaryContentBlock1Content h2.pageSubTitle,
+.cnPrimaryContentBlock1Content h2.stepTitle,
+.WaGadgetMemberDirectory #idMemberDirectoryTitleContainer div.memberListSwitcher,
+.WaGadgetMemberPublicProfile #idMemberDirectoryDetailsContainer .memberDirectoryDetailsHeaderContainer,
+.WaGadgetMemberPublicProfile #idMemberDirectoryDetailsContainer h2,
+.WaGadgetMemberPublicProfile #idMemberDirectoryDetailsContainer h3,
+.WaGadgetEmailMember .memberDirectoryDetailsHeaderContainer,
+.WaGadgetEmailMember .memberDirectoryDetailsHeaderContainer h2,
+.WaGadgetEmailMember .memberDirectoryDetailsHeaderContainer h3,
+.cnPrimaryContentBlock1Content h3.sectionTitle,
+.cnPrimaryContentBlock1Content .WaGadgetForum h4#forumTitle,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateList h5,
+.WaGadgetMemberPublicProfile #idMemberDirectoryDetailsContainer h5.bundlLinksTitle
+{}
+
+.WaGadgetMemberPublicProfile #idMemberDirectoryDetailsContainer h2,
+.WaGadgetMemberPublicProfile #idMemberDirectoryDetailsContainer h3
+{}
+
+
+.cnPrimaryContentBlock1Content .WaGadgetMemberDirectory #idMemberDirectoryTitleContainer div.memberListSwitcher,
+.cnPrimaryContentBlock1Content .browsingColumns th,
+#idViewSwitchersTable #group1 div span,
+.cnPrimaryContentBlock1Content div.pagerOuterContainer span,
+.cnPrimaryContentBlock1Content div.pagerOuterContainer span span,
+.cnPrimaryContentBlock1Content div.pagerOuterContainer span.linkCurrent,
+.cnPrimaryContentBlock1ContentHolder .cnPrimaryContentBlock1Content .memberDetailsTabMenu span,
+DIV.functionalPageContainer SPAN.photoLabel,
+#idPhotoMainContainer #idMenuHeaderContainer DIV.linkContainer SPAN
+{}
+
+.cnPrimaryContentBlock1Content div.pagerOuterContainer span.linkCurrent
+{
+	font-weight: bolder;
+}
+
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled span,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled strong,
+#idEventRegistrationContainer div.generalFieldsContainer div.fieldBody.disabled,
+#idEventRegistrationContainer div.generalFieldsContainer div.fieldBody.disabled span.textLine,
+#idEventRegistrationContainer div.generalFieldsContainer div.fieldBody.disabled span.label,
+#idEventRegistrationContainer div.generalFieldsContainer div.fieldBody.disabled label,
+#idEventRegistrationContainer div.generalFieldsContainer div.fieldBody div.fieldItem.disabled,
+#idEventRegistrationContainer div.generalFieldsContainer div.fieldBody div.fieldItem.disabled label,
+.cnPrimaryContentBlock1Content div.pagerOuterContainer span.linkDisabled
+{}
+
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled label
+{}
+
+.cnPrimaryContentContainer .WaGadgetBlog DIV.boxBaseView
+{}
+
+.cnPrimaryContentContainer .WaGadgetBlog div.boxContainer div.boxHeaderContainer h4.boxHeaderTitle
+{}
+
+.cnPrimaryContentContainer .WaGadgetBlogStateList div.boxContainer div.boxHeaderContainer h4.boxHeaderTitle a,
+.cnPrimaryContentContainer .WaGadgetBlogStateList div.boxContainer div.boxHeaderContainer h4.boxHeaderTitle a:link,
+.cnPrimaryContentContainer .WaGadgetBlogStateList div.boxContainer div.boxHeaderContainer h4.boxHeaderTitle a:active,
+.cnPrimaryContentContainer .WaGadgetBlogStateList div.boxContainer div.boxHeaderContainer h4.boxHeaderTitle a:visited
+{}
+
+.cnPrimaryContentContainer .WaGadgetBlogStateList div.boxContainer div.boxHeaderContainer h4.boxHeaderTitle a:hover
+{}
+
+div.boxBaseView div.boxBodyInfoContainer div.boxInfoContainer
+{}
+
+.WaGadgetBlog div.boxContainer div.boxBodyInfoContainer div.boxInfoContainer h5 span,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 span
+{}
+
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer div.commentBodyContainer,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 span.blogEntryPostedBy,
+.WaGadgetBlogStateDetails div.blogPostBody,
+.WaGadgetBlogStateDetails div.blogPostBody p,
+.WaGadgetBlogStateList #idBlogPostListContainer div.blogPostBody,
+.WaGadgetBlogStateList #idBlogPostListContainer div.blogPostBody p,
+HTML BODY.blogEditEntryEditorContainer.cnPrimaryContentBlock1Content,
+HTML BODY.blogEditEntryEditorContainer.cnPrimaryContentBlock1Content td,
+HTML BODY.blogEditEntryEditorContainer.cnPrimaryContentBlock1Content p,
+.WaGadgetBlogStateAddPost textarea.HideIfJSEnabled
+{}
+
+.cnPrimaryContentBlock1Content div.boxContainer div.boxFooterContainer a.reply,
+.cnPrimaryContentBlock1Content div.boxContainer div.boxFooterContainer a.reply:link,
+.cnPrimaryContentBlock1Content div.boxContainer div.boxFooterContainer a.reply:active,
+.cnPrimaryContentBlock1Content div.boxContainer div.boxFooterContainer a.reply:visited,
+.WaGadgetBlog div.boxContainer div.boxBodyInfoContainer div.boxInfoContainer h5 span.postedByLink a,
+.WaGadgetBlog div.boxContainer div.boxBodyInfoContainer div.boxInfoContainer h5 span.postedByLink a:link,
+.WaGadgetBlog div.boxContainer div.boxBodyInfoContainer div.boxInfoContainer h5 span.postedByLink a:active,
+.WaGadgetBlog div.boxContainer div.boxBodyInfoContainer div.boxInfoContainer h5 span.postedByLink a:visited,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogEntryPostedBy,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogEntryPostedBy:link,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogEntryPostedBy:active,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogEntryPostedBy:visited,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogCommentAnchor,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogCommentAnchor:link,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogCommentAnchor:active,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogCommentAnchor:visited
+{}
+
+.cnPrimaryContentBlock1Content div.boxContainer div.boxFooterContainer a.reply:hover,
+.WaGadgetBlog div.boxContainer div.boxBodyInfoContainer div.boxInfoContainer h5 span.postedByLink a:hover,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogEntryPostedBy:hover,
+.WaGadgetBlogStateDetails #idBlogCommentsContainer #idBlogCommentsListContainer div.blogCommentsListContainer div.commentViewContainer h5 a.blogCommentAnchor:hover
+{}
+
+.cnPrimaryContentContainer .WaGadgetBlog div.boxContainer div.boxFooterContainer
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxBaseView div.boxContainer div.boxFooterContainer a, 
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxBaseView div.boxContainer div.boxFooterContainer a:link,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxBaseView div.boxContainer div.boxFooterContainer a:active,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxBaseView div.boxContainer div.boxFooterContainer a:visited,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a:link,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a:active,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a:visited,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a.editPost,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a.editPost:link,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a.editPost:active,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a.editPost:visited
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxBaseView div.boxContainer div.boxFooterContainer a:hover,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a:hover,
+.cnPrimaryContentBlock1Content .WaGadgetBlog div.boxFooterContainer a.editPost:hover
+{}
+
+.cnPrimaryContentContainer .block .inner div.boxViewOutline div.boxBodyContainer .inner,
+.cnPrimaryContentContainer .block .inner .WaGadgetForumStateEditTopic div.boxFooterContainer .inner,
+.cnPrimaryContentContainer .block .inner .WaGadgetBlogStateAddPost div.boxViewOutline div.boxFooterContainer .inner,
+.WaGadgetEvents div.boxViewOutline div.boxFooterOuterContainer .d2
+{}
+
+.cnPrimaryContentContainer .WaGadgetForumStateTopicList div.topicListContainer div.boxHeaderContainer h4.boxHeaderTitle,
+.cnPrimaryContentContainer .WaGadgetForumStateEditTopic div.forumEditEntryBoxContainer div.boxHeaderContainer h4.boxHeaderTitle,
+.cnPrimaryContentContainer .WaGadgetForumStateList div.forumListContainer div.boxHeaderContainer h4.boxHeaderTitle,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderInfoContainer span,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer span,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer span.actionDivider
+{}
+
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer a,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer a:link,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer a:active,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer a:visited,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList h4.boxHeaderTitle a,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList h4.boxHeaderTitle a:link,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList h4.boxHeaderTitle a:active,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList h4.boxHeaderTitle a:visited
+{}
+
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxHeaderContainer td.forumMessageHeaderBodyContainer a:hover,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList h4.boxHeaderTitle a:hover
+{}
+
+.cnPrimaryContentBlock1Content .boxViewOutline .boxBodyInfoContainer .boxInfoContainer
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList div.boxInfoContainer ul.boxInfo li label,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList #idMessageListContainer div.forumMessageLastModified,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateEditTopic #idForumSubscribeOptionsContainer #idForumSubscribeOptionCheckbox label,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList table.forumMessageTable div.boxBodyInfoContainer span
+{}
+
+.cnPrimaryContentContainer .block .inner .WaGadgetEventsStateList div.boxActionContainer div.inner div.infoAlreadyRegistered,
+.cnPrimaryContentContainer .block .inner .WaGadgetEventsStateList div.boxActionContainer div.inner div.infoRegistrationIsNotAvailable,
+.cnPrimaryContentContainer .block .inner .WaGadgetEventsStateList div.boxActionContainer div.inner div.infoRegistrationIsClosed
+{}
+
+.WaGadgetEventsStateList div.boxInfoContainer ul.boxInfo li div span,
+.WaGadgetEventsStateList div.boxInfoContainer ul.boxInfo li div strong,
+.WaGadgetEventsStateList div.boxContainer div.boxBodyContentContainer .inner,
+.WaGadgetForumStateMessageList #idMessageListContainer div.forumMessage,
+HTML BODY.forumEditEntryEditorContainer.cnPrimaryContentBlock1Content,
+HTML BODY.forumEditEntryEditorContainer.cnPrimaryContentBlock1Content td,
+HTML BODY.forumEditEntryEditorContainer.cnPrimaryContentBlock1Content p,
+.WaGadgetForumStateEditTopic textarea.HideIfJSEnabled
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList table.forumMessageTable div.boxBodyInfoContainer a,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList table.forumMessageTable div.boxBodyInfoContainer a:link,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList table.forumMessageTable div.boxBodyInfoContainer a:active,
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList table.forumMessageTable div.boxBodyInfoContainer a:visited,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList li.eventInfoSpacesLeft div a,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList li.eventInfoSpacesLeft div a:link,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList li.eventInfoSpacesLeft div a:active,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList li.eventInfoSpacesLeft div a:visited
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetForumStateMessageList table.forumMessageTable div.boxBodyInfoContainer a:hover,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList li.eventInfoSpacesLeft div a:hover
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList div.boxFooterContainer a,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList div.boxFooterContainer a:link,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList div.boxFooterContainer a:active,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList div.boxFooterContainer a:visited
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateList div.boxFooterContainer a:hover
+{}
+
+.cnPrimaryContentContainer .block .inner DIV.boxViewOutline DIV.boxBodyContainer .inner
+{}
+
+.cnPrimaryContentContainer .block .inner DIV.boxViewOutline DIV.boxBodyContainer .inner .inner,
+.cnPrimaryContentContainer .block .inner .WaGadgetForumStateEditTopic DIV.boxFooterContainer .inner .inner,
+.cnPrimaryContentContainer .block .inner .WaGadgetBlogStateAddPost DIV.boxViewOutline DIV.boxFooterContainer .inner .inner
+{
+	background-color: transparent;
+}
+
+div.boxBodyInfoViewFill div.boxBodyInfoContainer div.boxInfoContainer,
+div.boxBaseView div.boxBodyInfoViewFill div.boxBodyInfoContainer div.boxInfoContainer
+{}
+
+.cnPrimaryContentContainer div.boxBodyInfoOuterContainer.boxBodyInfoViewFill div.boxBodyInfoContainer h4.infoTitle,
+.cnPrimaryContentBlock1Content .infoOuterContainer h4.infoTitle,
+div.WaGadgetPublicWizard div.infoContainer div.infoTitle,
+.boxBodyInfoViewFill .boxBodyInfoContainer .inner .infoTitle,
+.boxBodyInfoViewFill .infoContainer .inner .infoTitle,
+.infoOuterContainer .boxBodyInfoContainer .inner .infoTitle,
+.infoOuterContainer .infoContainer .inner .infoTitle,
+.WaGadgetEventsStateDetails div.boxInfoContainer ul.boxInfo li label,
+.WaGadgetEventsStateDetails div.registrationInfoContainer div.infoText strong
+{}
+
+.cnPrimaryContentContainer .block .inner .WaGadgetEventsStateDetails div.boxActionContainer div.inner div.infoAlreadyRegistered,
+.cnPrimaryContentContainer .block .inner .WaGadgetEventsStateDetails div.boxActionContainer div.inner div.infoRegistrationIsNotAvailable,
+.cnPrimaryContentContainer .block .inner .WaGadgetEventsStateDetails div.boxActionContainer div.inner div.infoRegistrationIsClosed
+{}
+
+div.WaGadgetPublicWizard div.infoContainer div.infoText,
+.boxBodyInfoViewFill .boxBodyInfoContainer .inner .infoText,
+.boxBodyInfoViewFill .infoContainer .inner .infoText,
+.infoOuterContainer .boxBodyInfoContainer .inner .infoText,
+.infoOuterContainer .infoContainer .inner .infoText,
+.WaGadgetEventsStateDetails div.registrationInfoContainer div.infoText,
+.WaGadgetEventsStateDetails div.boxInfoContainer ul.boxInfo li div span,
+.WaGadgetEventsStateDetails div.boxInfoContainer ul.boxInfo li div strong,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li span,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li strong,
+.WaGadgetEventsStateDetails div.boxMessageContainer span
+{}
+
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li label,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled label,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled span,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled strong
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateDetails li.eventInfoSpacesLeft div a,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateDetails li.eventInfoSpacesLeft div a:link,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateDetails li.eventInfoSpacesLeft div a:active,
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateDetails li.eventInfoSpacesLeft div a:visited
+{color: #285CAA;
+}
+
+.cnPrimaryContentBlock1Content .WaGadgetEventsStateDetails li.eventInfoSpacesLeft div a:hover
+{}
+
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled span,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled strong
+{}
+
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled,
+.WaGadgetEventsStateDetails div.registrationInfoContainer ul.registrationInfo li.disabled label
+{}
+
+#membersTable th,
+.cnPrimaryContentBlock1Content .EventListCalendar td.EventListCalendarHeader,
+.cnPrimaryContentBlock1Content .EventListCalendar td.EventListCalendarHeader a.calendarDate,
+.cnPrimaryContentBlock1Content .EventListCalendar td.EventListCalendarHeader a.calendarDate:link,
+.cnPrimaryContentBlock1Content .EventListCalendar td.EventListCalendarHeader a.calendarDate:active,
+.cnPrimaryContentBlock1Content .EventListCalendar td.EventListCalendarHeader a.calendarDate:visited,
+.cnPrimaryContentBlock1Content .EventListCalendar td.EventListCalendarHeader a.calendarDate:hover
+{}
+
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemDefault a.yearViewHeader,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemDefault a.yearViewHeader:link,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemDefault a.yearViewHeader:active,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemDefault a.yearViewHeader:visited,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemHoliday a.yearViewHeader,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemHoliday a.yearViewHeader:link,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemHoliday a.yearViewHeader:active,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemHoliday a.yearViewHeader:visited,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemInactive a.yearViewHeader,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemInactive a.yearViewHeader:link,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemInactive a.yearViewHeader:active,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemInactive a.yearViewHeader:visited,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemSelected a.yearViewHeader,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemSelected a.yearViewHeader:link,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemSelected a.yearViewHeader:active,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemSelected a.yearViewHeader:visited
+{}
+
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemDefault a.yearViewHeader:hover,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemHoliday a.yearViewHeader:hover,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemInactive a.yearViewHeader:hover,
+.cnPrimaryContentBlock1Content div.functionalPageContainer .EventListCalendar .EventListCalendarItemSelected a.yearViewHeader:hover
+{}
+
+.EventListCalendar,
+div.generalFieldsContainer div#idRegistrationsList table,
+.cnPrimaryContentBlock1Content .membersTable tr,
+.cnPrimaryContentBlock1Content .membersTable tr.normal,
+.WaGadgetForumStateTopicList div.boxBodyContainer tr,
+.WaGadgetForumStateTopicList div.boxBodyContainer tr.normal,
+.WaGadgetForumStateList div.boxBodyContainer tr,
+.WaGadgetForumStateList div.boxBodyContainer tr.normal
+{}
+
+.cnPrimaryContentBlock1Content .membersTable tr.hover,
+.WaGadgetForumStateTopicList div.boxBodyContainer tr.highlight,
+.WaGadgetForumStateList div.boxBodyContainer tr.highlight
+{}
+
+.cnPrimaryContentBlock1Content #membersTable td,
+.EventListCalendarItemDefault,
+.EventListCalendarItemHoliday,
+.EventListCalendarItemInactive,
+.EventListCalendarItemSelected,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemDefault a.calendarDate,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemDefault a.calendarDate:link,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemDefault a.calendarDate:active,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemDefault a.calendarDate:visited,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemDefault a.calendarDate:hover,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemHoliday a.calendarDate,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemHoliday a.calendarDate:link,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemHoliday a.calendarDate:active,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemHoliday a.calendarDate:visited,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemHoliday a.calendarDate:hover,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemInactive a.calendarDate,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemInactive a.calendarDate:link,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemInactive a.calendarDate:active,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemInactive a.calendarDate:visited,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemInactive a.calendarDate:hover,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemSelected a.calendarDate,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemSelected a.calendarDate:link,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemSelected a.calendarDate:active,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemSelected a.calendarDate:visited,
+.cnPrimaryContentBlock1Content .EventListCalendar .EventListCalendarItemSelected a.calendarDate:hover,
+#idRegistrationsList span,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD div.lastReply span,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.repliesCountTD div.repliesCount,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD div.thread span.forumDescription,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD div.lastReply span,
+.WaGadgetForumStateList div.boxBodyContainer table td.topicsCountTD div.topicsCount, .WaGadgetForumStateList div.boxBodyContainer table td.repliesCountTD div.repliesCount
+{}
+
+.this_Element_Is_Not_Implemented_Yet_In_Our_HTML_Layout
+{}
+
+#idRegistrationsList span.pendingRegistration
+{}
+
+#idRegistrationsList span.confirmedRegistration
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile table.membersTable tr td div.memberValue a,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile table.membersTable tr td div.memberValue a:active,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile table.membersTable tr td div.memberValue a:link,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile table.membersTable tr td div.memberValue a:visited,
+.EventListCalendar .EventListCalendarItemDefault a,
+.EventListCalendar .EventListCalendarItemDefault a:link,
+.EventListCalendar .EventListCalendarItemDefault a:active,
+.EventListCalendar .EventListCalendarItemDefault a:visited,
+.EventListCalendar .EventListCalendarItemHoliday a,
+.EventListCalendar .EventListCalendarItemHoliday a:link,
+.EventListCalendar .EventListCalendarItemHoliday a:active,
+.EventListCalendar .EventListCalendarItemHoliday a:visited,
+.EventListCalendar .EventListCalendarItemInactive a,
+.EventListCalendar .EventListCalendarItemInactive a:link,
+.EventListCalendar .EventListCalendarItemInactive a:active,
+.EventListCalendar .EventListCalendarItemInactive a:visited,
+.EventListCalendar .EventListCalendarItemSelected a,
+.EventListCalendar .EventListCalendarItemSelected a:link,
+.EventListCalendar .EventListCalendarItemSelected a:active,
+.EventListCalendar .EventListCalendarItemSelected a:visited,
+.cnPrimaryContentBlock1Content #idEventListCalendar .EventListCalendar div a,
+.cnPrimaryContentBlock1Content #idEventListCalendar .EventListCalendar div a:link,
+.cnPrimaryContentBlock1Content #idEventListCalendar .EventListCalendar div a:active,
+.cnPrimaryContentBlock1Content #idEventListCalendar .EventListCalendar div a:visited,
+.cnPrimaryContentBlock1Content .WaGadgetEvents #idEventRegistrationContainer #idEventRegistrationsList table td.registrationLink a,
+.cnPrimaryContentBlock1Content .WaGadgetEvents #idEventRegistrationContainer #idEventRegistrationsList table td.registrationLink a:link,
+.cnPrimaryContentBlock1Content .WaGadgetEvents #idEventRegistrationContainer #idEventRegistrationsList table td.registrationLink a:active,
+.cnPrimaryContentBlock1Content .WaGadgetEvents #idEventRegistrationContainer #idEventRegistrationsList table td.registrationLink a:visited,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadTD div.thread a,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadTD div.thread a:link,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadTD div.thread a:active,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadTD div.thread a:visited,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD div.lastReply a,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD div.lastReply a:link,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD div.lastReply a:active,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD div.lastReply a:visited,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD div.thread a.forumTitle,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD div.thread a.forumTitle:link,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD div.thread a.forumTitle:active,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD div.thread a.forumTitle:visited,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD div.lastReply a,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD div.lastReply a:link,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD div.lastReply a:active,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD div.lastReply a:visited
+{}
+
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile table.membersTable tr td div.memberValue a:hover,
+.EventListCalendar .EventListCalendarItemDefault a:hover,
+.EventListCalendar .EventListCalendarItemHoliday a:hover,
+.EventListCalendar .EventListCalendarItemInactive a:hover,
+.EventListCalendar .EventListCalendarItemSelected a:hover,
+.cnPrimaryContentBlock1Content #idEventListCalendar .EventListCalendar div a:hover,
+.cnPrimaryContentBlock1Content .WaGadgetEvents #idEventRegistrationContainer #idEventRegistrationsList table td.registrationLink a:hover,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadTD div.thread a:hover,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD div.lastReply a:hover,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD div.thread a.forumTitle:hover,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD div.lastReply a:hover
+{}
+
+
+.WaGadgetEventsStateRegistrationsList #membersTable tr.detailsHidden td
+{}
+
+div#idRegistrationsList table
+{}
+
+div#idRegistrationsList table td
+{}
+
+#membersTable td.memberDirectoryColumn1,
+#membersTable td.memberDirectoryColumn2,
+#membersTable td.memberDirectoryColumn3,
+#membersTable td.memberDirectoryColumn4
+{}
+
+#membersTable th
+{}
+
+#membersTable
+{}
+
+.EventListCalendar td.EventListCalendarItemDefault,
+.EventListCalendar td.EventListCalendarItemHoliday,
+.EventListCalendar td.EventListCalendarItemInactive,
+.EventListCalendar td.EventListCalendarItemSelected,
+.WaGadgetForumStateList div.boxBodyContainer table tr td,
+.WaGadgetContactProfile #idProfileDetailsContainer th,
+.WaGadgetContactProfile #idProfileDetailsContainer td,
+.WaGadgetForumStateTopicList div,
+.WaGadgetForumStateTopicList div.boxBodyContainer table tr td,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadImageTD,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.threadTD,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.lastReplyTD,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.pageStateIconTD,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.topicsCountTD,
+.WaGadgetForumStateTopicList div.boxBodyContainer table td.repliesCountTD,
+.WaGadgetForumStateList div.boxBodyContainer table td.pageStateIconTD,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadTD,
+.WaGadgetForumStateList div.boxBodyContainer table td.threadImageTD,
+.WaGadgetForumStateList div.boxBodyContainer table td.lastReplyTD,
+.WaGadgetForumStateList div.boxBodyContainer table td.topicsCountTD,
+.WaGadgetForumStateList div.boxBodyContainer table td.repliesCountTD,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxBodyContainer,
+.WaGadgetForumStateMessageList #idMessageListContainer div.boxBodyContainer table.forumMessageTable td.left,
+.cnPrimaryContentBlock1Content .boxViewOutline .boxBodyOuterContainer .d9
+{}
+
+div.formContainer,
+div.generalFieldsContainer,
+div.formContainer div.generalFieldsContainer div.confirmWindowOuterContainer,
+html div#idPictureUploaderContainer,
+html body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content,
+.WaGadgetEvents table.pastEventsList
+{}
+
+div.formContainer #idBottomButtonsContainer
+{
+	background-color: transparent;
+}
+
+div.formContainer div.confirmWindowOuterContainer
+{
+	background-color: #E1F8FF;}
+
+.cnPrimaryContentBlock1Content div.generalFormContainer div.formTitleContainer h3.formTitle,
+div#searchContainer fieldset legend,
+div.mandatoryFieldsTitle
+{}
+
+div.generalFormContainer div.formTitleOuterContainer,
+div.generalFormContainer div.navigationOuterContainer,
+div#searchContainer fieldset
+{}
+
+div.generalFieldsContainer div.captionContainer
+{}
+
+.cnPrimaryContentBlock1Content div.generalFieldsContainer div.captionContainer h4
+{}
+
+div.generalFieldsContainer div.fieldLabel,
+.selectedCriteriaListInnerContainer .simpleTextContainer .labeledTextContainer .criteriaTitleColumn,
+.WaGadgetBlogStateAddPost div.generalFieldsContainer div.fieldLabel,
+.WaGadgetForumStateEditTopic div.generalFieldsContainer div.fieldLabel,
+div.memberDirectorySearchArea label,
+.cnPrimaryContentBlock1Content div.memberDirectorySearchArea span.searchResult,
+.WaGadgetEvents table.pastEventsList td.left,
+.WaGadgetContactProfile #idMemberSubscriptionsContainer div.labeledImage span,
+.WaGadgetContactProfile #idMemberSubscriptionsContainer span.subscriptionType
+{}
+
+div.generalFieldsContainer div.fieldLabel strong,
+.WaGadgetBlogStateAddPost div.generalFieldsContainer div.fieldLabel strong,
+.WaGadgetForumStateEditTopic div.generalFieldsContainer div.fieldLabel strong
+{}
+
+
+DIV.generalFieldsContainer DIV.fieldBody .typeInstruction
+{}
+
+
+
+div.generalFieldsContainer div.fieldContainer span.validationError,
+div.WaGadgetPublicWizard span.mandatorySymbol,
+div.functionalPageContainer span.mandatorySymbol,
+div.WaGadgetPublicWizard span.mandatorySymbol,
+.WaGadgetBlogStateAddPost div.postEditLegend em,
+.WaGadgetForumStateEditTopic #idForumEditEntryBoxContainer div.postEditLegend em
+{}
+
+div#idPictureUploaderContainer,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content,
+div.generalFieldsContainer div.fieldBody,
+.cnPrimaryContentBlock1Content div.memberDirectorySearchArea span em,
+.WaGadgetContactProfile div.generalFieldsContainer #idProfileDetailsContainer .includeMeView input,
+.WaGadgetContactProfile div.generalFieldsContainer #idProfileDetailsContainer .includeMeView label,
+.WaGadgetContactProfile div.generalFieldsContainer #idProfileDetailsContainer .includeMeView span,
+.WaGadgetContactProfile div.generalFieldsContainer #idProfileDetailsContainer .includeMeView img,
+.WaGadgetContactProfile #idMemberSubscriptionsContainer div.fieldBody,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content span,
+.cnPrimaryContentBlock1Content .WaGadgetEvents #idEventRegistrationContainer div.generalFieldsContainer #idEmailContainer h5.fieldTitle,
+#idEventRegistrationContainer div.generalFieldsContainer div.groupContainer div.fieldItem span.textLine
+{}
+
+div.generalFieldsContainer div.fieldBody.disabled,
+div.generalFieldsContainer div.fieldBody.disabled span.textLine,
+div.generalFieldsContainer div.fieldBody.disabled span.label,
+div.generalFieldsContainer div.fieldBody.disabled label,
+div.generalFieldsContainer div.fieldBody div.fieldItem.disabled,
+div.generalFieldsContainer div.fieldBody div.fieldItem.disabled label,
+div.generalFieldsContainer div.fieldBody div.fieldItem label.disabled
+{}
+
+.cnPrimaryContentBlock1Content div.generalFieldsContainer div.fieldBody a,
+.cnPrimaryContentBlock1Content div.generalFieldsContainer div.fieldBody a:link,
+.cnPrimaryContentBlock1Content div.generalFieldsContainer div.fieldBody a:active,
+.cnPrimaryContentBlock1Content div.generalFieldsContainer div.fieldBody a:visited,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile div.fieldBody a,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile div.fieldBody a:link,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile div.fieldBody a:active,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile div.fieldBody a:visited,
+.cnPrimaryContentBlock1Content #criteria a,
+.cnPrimaryContentBlock1Content #criteria a:link,
+.cnPrimaryContentBlock1Content #criteria a:active,
+.cnPrimaryContentBlock1Content #criteria a:visited,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content a,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content a:link,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content a:active,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content a:visited,
+.WaGadgetEvents table.pastEventsList td a,
+.WaGadgetEvents table.pastEventsList td a:link,
+.WaGadgetEvents table.pastEventsList td a:active,
+.WaGadgetEvents table.pastEventsList td a:visited
+{}
+
+.cnPrimaryContentBlock1Content div.generalFieldsContainer div.fieldBody a:hover,
+.cnPrimaryContentBlock1Content .WaGadgetMemberPublicProfile div.fieldBody a:hover,
+.cnPrimaryContentBlock1Content #criteria a:hover,
+body div#idPictureUploaderContainer div.cnPrimaryContentBlock1Content a:hover,
+.WaGadgetEvents table.pastEventsList td a:hover
+{}
+HTML > BODY
+{
+  background-color: #99CCFF;}
+
+HTML > BODY .WaGadgetEvents div.boxViewOutline div.boxFooterOuterContainer .d2 
+{}
+
