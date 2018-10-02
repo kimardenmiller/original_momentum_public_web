@@ -15,16 +15,16 @@ One of the things that makes Momentum unique are the experiences we all share to
 
 **Click on a category link to find out more**
 
-* [Team Processes/Men's Work](https://www.gomomentum.org/page-1400518)  
+* [Team Processes/Men's Work](/members_area/processes/)  
 
 
-* [Team Activities/Excursions](https://www.gomomentum.org/page-1396411)  
+* [Team Activities/Excursions](/members_area/activities/)  
 
 
-* [Team/Individual Sharing](https://www.gomomentum.org/page-1396412)  
+* [Team / Individual Sharing](/members_area/sharing/)  
 
 
-* [Team Discussion](https://www.gomomentum.org/page-1396413)  
+* [Team Discussion](/members_area/discussion/)  
 
 
 * [Joint Team Meeting](/members_area/joint_team_meeting/)  
