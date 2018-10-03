@@ -3,7 +3,7 @@ layout: post
 title: 'Team Processes'
 img: fall_event_guys.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
-permalink: /members_area/processes/
+permalink: /members_area/team_resources/processes/
 author-name: 
 author-photo: 
 about-author: 
@@ -14,11 +14,11 @@ These processes are meant to provide team ideas for deeper exploration into Menâ
 The posted processes are a collection of men's work for several authors.  In keeping with the original thoughts of the author, no changes other than a standard template format and grammatical changes have been made to the processes.
 
 
-[Bravery](/members_area/team_resources/processes/bravery.html)
+[Bravery](/members_area/team_resources/processes/bravery)
 
 [Communication Wheel Process (Clearing Wheel)](/members_area/team_resources/processes/Communication.html)
 
-Eulogy
+[Eulogy](/members_area/team_resources/processes/Eulogy.html)
 
 Father Process
 
