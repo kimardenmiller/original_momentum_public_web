@@ -14,9 +14,9 @@ These processes are meant to provide team ideas for deeper exploration into Menâ
 The posted processes are a collection of men's work for several authors.  In keeping with the original thoughts of the author, no changes other than a standard template format and grammatical changes have been made to the processes.
 
 
-Bravery
+[Bravery](/members_area/team_resources/processes/bravery.html)
 
-Communication Wheel Process (Clearing Wheel)
+[Communication Wheel Process (Clearing Wheel)](/members_area/team_resources/processes/Communication.html)
 
 Eulogy
 
