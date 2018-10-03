@@ -16,11 +16,11 @@ The posted processes are a collection of men's work for several authors.  In kee
 
 [Bravery](/members_area/team_resources/processes/bravery)
 
-[Communication Wheel Process (Clearing Wheel)](/members_area/team_resources/processes/Communication.html)
+[Communication Wheel Process (Clearing Wheel)](/members_area/team_resources/processes/communication)
 
-[Eulogy](/members_area/team_resources/processes/Eulogy.html)
+[Eulogy](/members_area/team_resources/processes/eulogy)
 
-Father Process
+[Father Process](/members_area/team_resources/processes/father)
 
 Fearlessness
 
