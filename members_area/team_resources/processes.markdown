@@ -14,44 +14,44 @@ These processes are meant to provide team ideas for deeper exploration into Menâ
 The posted processes are a collection of men's work for several authors.  In keeping with the original thoughts of the author, no changes other than a standard template format and grammatical changes have been made to the processes.
 
 
-[Bravery](/members_area/team_resources/processes/bravery)
+- [Bravery](/members_area/team_resources/processes/bravery)
 
-[Communication Wheel Process (Clearing Wheel)](/members_area/team_resources/processes/communication)
+- [Communication Wheel Process (Clearing Wheel)](/members_area/team_resources/processes/communication)
 
-[Eulogy](/members_area/team_resources/processes/eulogy)
+- [Eulogy](/members_area/team_resources/processes/eulogy)
 
-[Father Process](/members_area/team_resources/processes/father)
+- [Father Process](/members_area/team_resources/processes/father)
 
-Fearlessness
+- [Fearlessness](/members_area/team_resources/processes/fearlessness)
 
-Fulfillment- 100 Lifetime Dreams
+- [Fulfillment- 100 Lifetime Dreams](/members_area/team_resources/processes/fulfillment)
 
-Get to Know the Man
+- [Get to Know the Man](/members_area/team_resources/processes/get_to_know_the_man)
 
-Intention Process
+- [Intention Process](/members_area/team_resources/processes/intention_process)
 
-Harnessing Anger
+- [Harnessing Anger](/members_area/team_resources/processes/harnessing_anger)
 
-Languages of Love
+- [Languages of Love](/members_area/team_resources/processes/love_languages)
 
-Life Stories
+- [Life Stories](/members_area/team_resources/processes/life_stories)
 
-Men and Sexuality
+- [Men and Sexuality](/members_area/team_resources/processes/men_and_sexuality)
 
-Music of My Life
+- [Music of My Life](/members_area/team_resources/processes/music_of_my_life)
 
-Soft or Hard Support
+- [Soft or Hard Support](/members_area/team_resources/processes/soft_hard_support)
 
-Team Health Diagnostic I
+- [Team Health Diagnostic I](/members_area/team_resources/processes/team_health_diagnostic_I)
 
-Team Health Diagnostic II
+- [Team Health Diagnostic II](/members_area/team_resources/processes/team_health_diagnostic_II)
 
-Team Dipstick Process
+- [Team Dipstick Process](/members_area/team_resources/processes/team_dipstick_process)
 
-Turd in the Punch Bowl
+- [Turd in the Punch Bowl](/members_area/team_resources/processes/turd_in_the_punch_bowl)
 
-What is Support?
+- [What is Support?](/members_area/team_resources/processes/what_is_support)
 
-What is the purpose of Conflict?
+- [What is the purpose of Conflict?](/members_area/team_resources/processes/what_is_the_purpose_of_conflict)
 
-You and Money
+- [You and Money](/members_area/team_resources/processes/you_and_money)
