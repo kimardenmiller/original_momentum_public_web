@@ -15,7 +15,7 @@ One of the things that makes Momentum unique are the experiences we all share to
 
 **Click on a category link to find out more**
 
-* [Team Processes/Men's Work](/members_area/processes/)  
+* [Team Processes/Men's Work](/members_area/team_resources/processes/)  
 
 
 * [Team Activities/Excursions](/members_area/activities/)  
