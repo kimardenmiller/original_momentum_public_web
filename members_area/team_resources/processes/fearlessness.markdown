@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fearlessness'
-img: steve_adventure.jpg # Add image (optional)
+img: kim_rafting.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/fearlessness
 author-name: John Butler

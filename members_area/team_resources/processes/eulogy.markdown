@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eulogy'
-img: steve_adventure.jpg # Add image (optional)
+img: fall_event.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/eulogy
 author-name: 

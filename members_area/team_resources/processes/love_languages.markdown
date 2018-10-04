@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Languages of Love'
-img: steve_adventure.jpg # Add image (optional)
+img: handholding.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/love_languages
 author-name: John Butler

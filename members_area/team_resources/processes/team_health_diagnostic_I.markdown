@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Team Health Diagnostic I'
-img: steve_adventure.jpg # Add image (optional)
+img: team_wide.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/team_health_diagnostic_I
 author-name: John Butler

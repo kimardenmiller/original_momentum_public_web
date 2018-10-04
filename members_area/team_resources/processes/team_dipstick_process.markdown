@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Team Dipstick Process'
-img: steve_adventure.jpg # Add image (optional)
+img: davinci_meeting.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/team_dipstick_process
 author-name: John Butler

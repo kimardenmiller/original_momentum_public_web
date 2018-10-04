@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Life Stories'
-img: steve_adventure.jpg # Add image (optional)
+img: smiling_adventure.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/life_stories
 author-name: John Butler

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Music of My Life'
-img: steve_adventure.jpg # Add image (optional)
+img: music.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/music_of_my_life
 author-name: John Butler

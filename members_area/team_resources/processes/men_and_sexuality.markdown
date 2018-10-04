@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Men and Sexuality'
-img: steve_adventure.jpg # Add image (optional)
+img: tkom_kim_don.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/men_and_sexuality
 author-name: John Butler

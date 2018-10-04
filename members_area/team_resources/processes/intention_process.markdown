@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intention Process'
-img: steve_adventure.jpg # Add image (optional)
+img: service_lee.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/intention_process
 author-name: John Butler

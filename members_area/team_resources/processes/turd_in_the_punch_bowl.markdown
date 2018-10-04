@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turd in the Punch Bowl'
-img: steve_adventure.jpg # Add image (optional)
+img: stooges.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/turd_in_the_punch_bowl
 author-name: John Butler

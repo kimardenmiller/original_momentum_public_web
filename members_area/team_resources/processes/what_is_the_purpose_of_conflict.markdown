@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What is the purpose of Conflict?'
-img: steve_adventure.jpg # Add image (optional)
+img: smiling_adventure.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/what_is_the_purpose_of_conflict
 author-name: John Butler

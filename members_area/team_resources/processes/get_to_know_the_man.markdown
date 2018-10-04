@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Get to Know the Man'
-img: steve_adventure.jpg # Add image (optional)
+img: moe_adventure.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/get_to_know_the_man
 author-name: John Butler

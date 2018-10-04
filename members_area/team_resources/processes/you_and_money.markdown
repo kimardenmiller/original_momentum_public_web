@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'You and Money'
-img: steve_adventure.jpg # Add image (optional)
+img: curt3.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/processes/you_and_money
 author-name: John Butler
