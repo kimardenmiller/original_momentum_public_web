@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Team Resources'
-img: bramhall_circle.jpg # Add image (optional)
+img: davinci_meeting.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/
 author-name: 
