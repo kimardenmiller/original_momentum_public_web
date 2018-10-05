@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Team Resources'
-img: fall_event_guys.jpg # Add image (optional)
+img: bramhall_circle.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /members_area/team_resources/
 author-name: 
@@ -15,10 +15,10 @@ One of the things that makes Momentum unique are the experiences we all share to
 
 **Click on a category link to find out more**
 
-* [Team Processes/Men's Work](/members_area/team_resources/processes/)  
+* [Team Processes / Men's Work](/members_area/team_resources/processes/)  
 
 
-* [Team Activities/Excursions](/members_area/activities/)  
+* [Team Activities & Excursions](/members_area/activities/)  
 
 
 * [Team / Individual Sharing](/members_area/sharing/)  
