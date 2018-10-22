@@ -31,4 +31,4 @@ These standards are governing principles, not requirements.
 
 --------------------------------------------------------------------------------------------------------------
 
-Revised January 2018  -- Questions? [Contact us here]({{site.baseurl}}/contact/).
+Revised October 2018  -- Questions? [Contact us here]({{site.baseurl}}/contact/).
