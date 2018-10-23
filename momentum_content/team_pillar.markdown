@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: team
 title: 'Team Pillar Lives Here'
 img: pillar.jpg # Add image (optional)
 description: Team Pillar Lives Here! # Add description (optional)

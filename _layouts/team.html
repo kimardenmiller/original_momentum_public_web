@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<main>
+  <article class="post">
+    <header>
+      <div class="post_image">
+        <img src={{"/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+      </div>
+      <div class="post_description">
+        {% if pate.date %}
+        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
+        {% endif %}
+        <h1 class="post_title">{{page.title}}</h1>
+      </div>
+    </header> <!-- End Header -->
+
+    <div class="entry_content">
+      {{page.content | markdownify}}
+    </div>
+  </article> <!-- End Section Post -->
+
+</main> <!-- End Section Post Content -->
+
+{% include footer.html %}
