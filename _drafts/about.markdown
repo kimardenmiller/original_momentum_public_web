@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'About Momentum'
+title: 'Learn More'
 img: bramhall_circle.jpg # Add image (optional)
 description: About Momentum # Add description (optional)
 permalink: /about_us/
@@ -30,6 +30,6 @@ We support each other to live an engaged life, be true to our values, and adhere
 When we give, we get. We see the value in contributing our gifts and talents to benefit our communities, families, teams, and each other. Giving grows relationships. We give to Momentum: Our community is only as strong as we make it.
 
 ## **Learn More**
-The best way to get to know us is to [come visit](../monthly-meeting/), as most of what we are about can only happen face-to-face. But if you are itching to dig deeper before visiting, [check out our standards](../legacy/) and [our charter](../charter/). 
+The best way to get to know us is to [come visit](../monthly-meeting/), as most of what we are about can only happen face-to-face. But if you are itching to dig deeper before visiting, [check out our standards](../legacy/), [our charter](../charter/), and our [standards for teams](../team_standards/). 
 
 Revised June 2018  -- Questions? [Contact us here](../contact/).
