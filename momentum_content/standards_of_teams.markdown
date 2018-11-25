@@ -31,7 +31,7 @@ _The Four Pillars of Successful Teams_
    Teams support incoming new men by, for example:[2]
    a) Sending a man to visit a [Launchpad](https://docs.google.com/document/d/1xrEpNpA2veLOTX_c18QoaLXJploijRxIQT54FXJOZuY) meeting,
    b) Hosting a [Rotator](https://docs.google.com/spreadsheets/d/17BNZlBWdr2OoJBO8rlS4Vf6J_KP_9-71Rk2cFwcoCe4/edit#gid=103022674&range=145:145), or
-   c) Hosting a [Team Visit](https://www.meetup.com/GoMomentum-Pen/events/lxdfxpyxpbhb/).
+   c) Hosting a [Team Visit](https://www.meetup.com/GoMomentum-Pen/events/238747040/).
 
 ___
 1.  All programs mentioned in this document are subject to change over time. Currently, basic Tempo participation is once each quarter.
