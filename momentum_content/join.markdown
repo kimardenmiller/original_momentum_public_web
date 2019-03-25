@@ -13,7 +13,7 @@ In Momentum we call our members _Owners_ because we are a grass-roots, peer to p
 
 To become an owner, use the link below. Owners have access to the Owners community social Discourse platform and can attend Owners-only events. 
 
-Annual dues are $80 for regular Owners, and $40 for remote Owners (who live more than 50 miles from the Bay Area). Dues renew every 12 months. Credit card auto-renewal is the default setting, but can be disabled if desired.
+Annual dues are $80 for regular Owners, and $40 for remote Owners (who live more than 50 miles from the Bay Area). Dues renew every 12 months. Credit card auto-renewal is the default setting, but can be disabled if desired. We never want financial means to be an obstacle to membership. Scholarships are always considered for any man in need of one by request directly to our Chief of Treasurer.
 
 [**Click here for Regular Ownership**](https://momentum4men.memberful.com/checkout?plan=22178) or [_here for men living outside the Bay Area_](https://momentum4men.memberful.com/checkout?plan=24440).
 
